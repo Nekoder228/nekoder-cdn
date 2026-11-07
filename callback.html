@@ -1,0 +1,11 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex"><title>Nekoder Uploader — authorized</title>
+<style>body{font-family:system-ui,sans-serif;max-width:720px;margin:40px auto;padding:0 16px;line-height:1.6;color:#222;background:#fff}code{display:block;word-break:break-all;background:#f3f3f3;padding:12px;border-radius:8px}</style></head>
+<body><h1>Authorization finished</h1>
+<p id="msg">Reading result…</p><code id="code"></code>
+<script>
+const p=new URLSearchParams(location.search);
+const c=p.get('code'), e=p.get('error');
+document.getElementById('msg').textContent = c ? 'Copy this one-time code and paste it into the uploader setup (it expires in a few minutes):' : ('No code. ' + (e ? 'Error: ' + e + ' ' + (p.get('error_description')||'') : ''));
+document.getElementById('code').textContent = c || '';
+history.replaceState(null,'',location.pathname);
+</script></body></html>
