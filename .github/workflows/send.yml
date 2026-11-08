@@ -21,12 +21,14 @@ jobs:
           TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
           TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
         run: |
-          ok=""
+          ok=""; bad=0
           for d in media/*/; do
             [ -f "$d/post.json" ] || continue
-            python3 scripts/tiktok.py send "${d%/}" && ok="$ok ${d%/}"
+            if python3 scripts/tiktok.py send "${d%/}"; then ok="$ok ${d%/}"; else bad=1; fi
+            sleep 12
           done
           echo "SENT=$ok" >> $GITHUB_ENV
+          exit $bad
       - name: save state and remove sent images
         if: always()
         run: |
