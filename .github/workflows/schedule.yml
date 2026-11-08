@@ -1,0 +1,26 @@
+name: schedule
+on:
+  push:
+    branches: [main]
+    paths: ['queue/**/post.json']
+  schedule:
+    - cron: '17 5 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: zernio-queue
+jobs:
+  schedule:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: schedule queued posts
+        env:
+          ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
+        run: mkdir -p queue && python3 scripts/zernio.py
+      - name: save results
+        if: always()
+        run: |
+          git config user.name "nekoder-bot"; git config user.email "bot@users.noreply.github.com"
+          git add -A queue
+          if ! git diff --cached --quiet; then git commit -qm "queue: update"; git pull -q --rebase origin main; git push origin HEAD:main; fi
