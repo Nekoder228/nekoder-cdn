@@ -105,5 +105,22 @@ def main():
     sys.exit(bad)
 
 
+
+
+def check():
+    """Write status.json next to every done.json (status of the post on Zernio/TikTok)."""
+    for name in sorted(os.listdir('queue')):
+        dp = os.path.join('queue', name, 'done.json')
+        if not os.path.exists(dp):
+            continue
+        done = json.load(open(dp))
+        code, j = call('GET', '/posts/' + done['post_id'])
+        post = j.get('post', j)
+        plats = [{k: p.get(k) for k in ('platform', 'status', 'platformPostUrl', 'errorMessage', 'error') if p.get(k)} for p in post.get('platforms', [])]
+        st = {'http': code, 'status': post.get('status'), 'platforms': plats, 'at': done.get('at')}
+        print(name, json.dumps(st, ensure_ascii=False)[:500])
+        json.dump(st, open(os.path.join('queue', name, 'status.json'), 'w'), ensure_ascii=False)
+
+
 if __name__ == '__main__':
-    main()
+    check() if sys.argv[1:] == ['check'] else main()

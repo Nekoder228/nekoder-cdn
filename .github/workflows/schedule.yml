@@ -2,7 +2,7 @@ name: schedule
 on:
   push:
     branches: [main]
-    paths: ['queue/**/post.json']
+    paths: ['queue/**/post.json', 'check/**']
   schedule:
     - cron: '17 5 * * *'
   workflow_dispatch:
@@ -17,7 +17,10 @@ jobs:
       - name: schedule queued posts
         env:
           ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
-        run: mkdir -p queue && python3 scripts/zernio.py
+        run: |
+          mkdir -p queue
+          python3 scripts/zernio.py
+          python3 scripts/zernio.py check
       - name: save results
         if: always()
         run: |
