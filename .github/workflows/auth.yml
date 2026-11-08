@@ -1,0 +1,32 @@
+name: auth
+on:
+  workflow_dispatch:
+    inputs:
+      code:
+        description: one-time code from callback page
+        required: true
+permissions:
+  contents: write
+concurrency: tiktok-state
+jobs:
+  auth:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "::add-mask::${{ github.event.inputs.code }}"
+      - uses: actions/checkout@v4
+      - name: exchange code
+        env:
+          TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+          TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+          CODE: ${{ github.event.inputs.code }}
+        run: python3 scripts/tiktok.py auth "$CODE"
+      - name: store encrypted state
+        run: |
+          cp state/token.enc /tmp/token.enc
+          git config user.name "nekoder-bot"; git config user.email "bot@users.noreply.github.com"
+          git fetch origin state || true
+          git switch --orphan state-new
+          git rm -rf . -q || true
+          mkdir -p state && cp /tmp/token.enc state/token.enc
+          git add state/token.enc && git commit -qm "state"
+          git push -f origin state-new:state

@@ -1,0 +1,40 @@
+name: send
+on:
+  push:
+    branches: [main]
+    paths: ['media/**/post.json']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: tiktok-state
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: load state
+        run: |
+          git fetch origin state
+          mkdir -p state && git show origin/state:state/token.enc > state/token.enc
+      - name: send posts to TikTok inbox
+        env:
+          TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+          TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+        run: |
+          ok=""
+          for d in media/*/; do
+            [ -f "$d/post.json" ] || continue
+            python3 scripts/tiktok.py send "${d%/}" && ok="$ok ${d%/}"
+          done
+          echo "SENT=$ok" >> $GITHUB_ENV
+      - name: save state and remove sent images
+        if: always()
+        run: |
+          git config user.name "nekoder-bot"; git config user.email "bot@users.noreply.github.com"
+          cp state/token.enc /tmp/token.enc
+          for d in $SENT; do git rm -rq "$d"; done
+          if ! git diff --cached --quiet; then git commit -qm "cleanup sent media"; git push origin HEAD:main; fi
+          git switch --orphan state-new
+          git rm -rf . -q || true
+          mkdir -p state && cp /tmp/token.enc state/token.enc
+          git add state/token.enc && git commit -qm "state" && git push -f origin state-new:state
