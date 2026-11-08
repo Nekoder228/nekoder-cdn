@@ -5,8 +5,8 @@ Never prints tokens. State (refresh token) is kept AES-encrypted in state/token.
 import json, os, subprocess, sys, time, urllib.parse, urllib.request
 
 API = 'https://open.tiktokapis.com'
-KEY = os.environ['TIKTOK_CLIENT_KEY']
-SECRET = os.environ['TIKTOK_CLIENT_SECRET']
+KEY = os.environ['TIKTOK_CLIENT_KEY'].strip()
+SECRET = os.environ['TIKTOK_CLIENT_SECRET'].strip()
 REDIRECT = 'https://nekoder228.github.io/nekoder-cdn/callback.html'
 SITE = 'https://nekoder228.github.io/nekoder-cdn/'
 STATE = 'state/token.enc'
@@ -58,6 +58,8 @@ def token_request(data):
 
 
 def cmd_auth(code):
+    code = code.strip()
+    print('client key looks like sandbox:', KEY.startswith('sb'), '| length:', len(KEY))
     j = token_request({'code': code, 'grant_type': 'authorization_code', 'redirect_uri': REDIRECT})
     save_state(j)
     print('authorized. scopes:', j.get('scope'), '| refresh valid days:', int(j.get('refresh_expires_in', 0)) // 86400)

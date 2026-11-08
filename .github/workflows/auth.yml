@@ -12,7 +12,10 @@ jobs:
   auth:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "::add-mask::${{ github.event.inputs.code }}"
+      - name: hide code
+        env:
+          CODE: ${{ github.event.inputs.code }}
+        run: echo "::add-mask::$CODE"
       - uses: actions/checkout@v4
       - name: exchange code
         env:
