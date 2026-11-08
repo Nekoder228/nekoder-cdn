@@ -2,7 +2,7 @@ name: schedule
 on:
   push:
     branches: [main]
-    paths: ['queue/**/post.json', 'check/**']
+    paths: ['queue/**/post.json', 'queue/**/cancel', 'check/**']
   schedule:
     - cron: '17 5 * * *'
   workflow_dispatch:

@@ -64,6 +64,15 @@ def main():
             continue
         meta = json.load(open(meta_p, encoding='utf-8'))
         at = dt.datetime.fromisoformat(meta['at']) if meta.get('at') else None
+        if os.path.exists(os.path.join(d, 'cancel')) and os.path.exists(os.path.join(d, 'done.json')):
+            pid = json.load(open(os.path.join(d, 'done.json')))['post_id']
+            code, j = call('DELETE', '/posts/' + pid)
+            print(name, 'cancel', pid, '-> http', code, json.dumps(j, ensure_ascii=False)[:300])
+            if code in (200, 204):
+                shutil.rmtree(d)
+            else:
+                bad = 1
+            continue
         if os.path.exists(os.path.join(d, 'done.json')):
             if at and now - at > dt.timedelta(days=2):
                 shutil.rmtree(d)
