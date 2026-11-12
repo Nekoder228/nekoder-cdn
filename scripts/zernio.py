@@ -131,5 +131,32 @@ def check():
         json.dump(st, open(os.path.join('queue', name, 'status.json'), 'w'), ensure_ascii=False)
 
 
+def stats():
+    """Write stats/latest.json: account info + analytics of every TikTok post (Zernio and external)."""
+    os.makedirs('stats', exist_ok=True)
+    out = {'fetched': dt.datetime.now(dt.timezone.utc).isoformat()}
+    code, j = call('GET', '/accounts')
+    accs = j.get('accounts', j.get('data', []))
+    out['accounts'] = [{k: a.get(k) for k in ('platform', 'username', 'followersCount', 'followers', 'isActive', 'metadata') if k in a}
+                       for a in accs if a.get('platform') == 'tiktok']
+    posts, page = [], 1
+    while page <= 10:
+        code, j = call('GET', f'/analytics?platform=tiktok&source=all&limit=100&page={page}&fromDate=2026-10-01')
+        out.setdefault('http', []).append(code)
+        if code != 200:
+            out['error'] = json.dumps(j, ensure_ascii=False)[:1500]
+            break
+        items = j.get('posts') or j.get('data') or []
+        posts += items
+        out['meta'] = {k: v for k, v in j.items() if k not in ('posts', 'data')}
+        if len(items) < 100:
+            break
+        page += 1
+    out['posts'] = posts
+    print('accounts', len(out['accounts']), 'posts', len(posts), 'http', out['http'])
+    json.dump(out, open('stats/latest.json', 'w'), ensure_ascii=False, indent=1)
+
+
 if __name__ == '__main__':
-    check() if sys.argv[1:] == ['check'] else main()
+    arg = sys.argv[1:]
+    check() if arg == ['check'] else stats() if arg == ['stats'] else main()
