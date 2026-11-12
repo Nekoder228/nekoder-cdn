@@ -1,0 +1,15 @@
+<!doctype html><meta charset="utf-8"><title>relay</title><body style="font:16px sans-serif">relay…<script>
+(async () => {
+  const q = new URLSearchParams(location.search), d = q.get('d'), n = +q.get('n') || 2;
+  const out = [];
+  for (let i = 1; i <= n; i++) {
+    const name = String(i).padStart(2, '0') + '.jpg';
+    const r = await fetch(d + '/' + name, {cache: 'no-store'});
+    if (!r.ok) { document.body.textContent = 'missing ' + name + ' ' + r.status; return; }
+    out.push({name, buf: await r.arrayBuffer()});
+  }
+  window.opener.postMessage({nekoderSlides: out}, 'https://www.tiktok.com', out.map(o => o.buf));
+  document.body.textContent = 'sent ' + out.length;
+  setTimeout(() => window.close(), 500);
+})();
+</script>
