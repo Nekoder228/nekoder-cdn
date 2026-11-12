@@ -8,7 +8,7 @@
     if (!r.ok) { document.body.textContent = 'missing ' + name + ' ' + r.status; return; }
     out.push({name, buf: await r.arrayBuffer()});
   }
-  window.opener.postMessage({nekoderSlides: out}, 'https://www.tiktok.com', out.map(o => o.buf));
+  (window.opener || window.parent).postMessage({nekoderSlides: out}, 'https://www.tiktok.com', out.map(o => o.buf));
   document.body.textContent = 'sent ' + out.length;
   setTimeout(() => window.close(), 500);
 })();
