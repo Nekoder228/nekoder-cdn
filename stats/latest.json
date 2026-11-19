@@ -1,10 +1,10 @@
 {
- "fetched": "2026-11-18T06:16:57.102291+00:00",
+ "fetched": "2026-11-19T06:14:41.540355+00:00",
  "accounts": [
   {
    "platform": "tiktok",
    "username": "dnevnik_nekodera",
-   "followersCount": 96,
+   "followersCount": 106,
    "isActive": true,
    "metadata": {
     "scope": "user.info.basic,biz.spark.auth,comment.list,message.list.send,user.info.profile,user.info.username,user.insights,video.insights,biz.brand.insights,comment.list.manage,discovery.search.words,user.info.stats,video.publish,video.upload,message.list.manage,message.list.read,user.account.type,video.list",
@@ -15,18 +15,18 @@
      "id": "-000s5HIP-UdkCSHeCP_Hh1VULM4tHdjwq2P",
      "username": "dnevnik_nekodera",
      "extraData": {
-      "likesCount": 19668,
-      "videoCount": 44,
+      "likesCount": 21363,
+      "videoCount": 49,
       "followingCount": 1,
       "isBusinessAccount": false
      },
-     "followersCount": 96,
+     "followersCount": 106,
      "displayName": "Дневник Некодера",
-     "profilePicture": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/16b4b50bd0dc6b14701576d310c45756~tplv-tiktokx-cropcenter:168:168.jpeg?dr=14577&refresh_token=f73e1fb6&x-expires=1795086000&x-signature=klSffjJKJlWNVErDo2kz%2Bn1hKDY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=8aecc5ac&idc=my",
+     "profilePicture": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/16b4b50bd0dc6b14701576d310c45756~tplv-tiktokx-cropcenter:168:168.jpeg?dr=14577&refresh_token=e7aa28dd&x-expires=1795165200&x-signature=a3W2hbKCeCynt0fiynhHtR%2BpyYM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=8aecc5ac&idc=my",
      "profileUrl": "https://tiktok.com/@dnevnik_nekodera"
     },
-    "refreshEnqueuedAt": "2026-11-14T11:21:49.394Z",
-    "lastTokenRefreshAt": "2026-11-14T11:22:53.372Z"
+    "lastTokenRefreshAt": "2026-11-14T11:22:53.372Z",
+    "refreshEnqueuedAt": "2026-11-14T11:21:49.394Z"
    }
   }
  ],
@@ -35,19 +35,19 @@
  ],
  "meta": {
   "overview": {
-   "totalPosts": 49,
-   "publishedPosts": 49,
+   "totalPosts": 54,
+   "publishedPosts": 54,
    "scheduledPosts": 0,
-   "lastSync": "2026-11-18T05:31:07.191Z",
+   "lastSync": "2026-11-19T04:12:59.246Z",
    "dataStaleness": {
-    "staleAccountCount": 0,
-    "syncTriggered": false
+    "staleAccountCount": 1,
+    "syncTriggered": true
    }
   },
   "pagination": {
    "page": 1,
    "limit": 100,
-   "total": 49,
+   "total": 54,
    "pages": 1
   },
   "accounts": [
@@ -56,46 +56,166 @@
     "platform": "tiktok",
     "username": "dnevnik_nekodera",
     "displayName": "Дневник Некодера",
-    "profilePicture": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/16b4b50bd0dc6b14701576d310c45756~tplv-tiktokx-cropcenter:168:168.jpeg?dr=14577&refresh_token=f73e1fb6&x-expires=1795086000&x-signature=klSffjJKJlWNVErDo2kz%2Bn1hKDY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=8aecc5ac&idc=my",
+    "profilePicture": "https://p16-common-sign.tiktokcdn.com/tos-alisg-avt-0068/16b4b50bd0dc6b14701576d310c45756~tplv-tiktokx-cropcenter:168:168.jpeg?dr=14577&refresh_token=e7aa28dd&x-expires=1795165200&x-signature=a3W2hbKCeCynt0fiynhHtR%2BpyYM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=8aecc5ac&idc=my",
     "profileId": "6aefc38eb7cfe9e3f9486228",
-    "followersCount": 96,
-    "followersLastUpdated": "2026-11-17T11:32:56.966Z"
+    "followersCount": 106,
+    "followersLastUpdated": "2026-11-18T09:46:47.637Z"
    }
   ],
   "hasAnalyticsAccess": true
  },
  "posts": [
   {
-   "_id": "6afccf62aaa40c3a54effa7e",
+   "_id": "6afe0b9a7ec6fb834c96bd7e",
    "latePostId": null,
    "content": "больше про вайбкодинг в тгк: dnevnik_nekodera #ии #claude #вайбкодинг #нейросеть",
-   "publishedAt": "2026-11-17T20:30:00.000Z",
-   "scheduledFor": "2026-11-17T20:30:00.000Z",
+   "publishedAt": "2026-11-18T20:30:00.000Z",
+   "scheduledFor": "2026-11-18T20:30:00.000Z",
    "status": "published",
    "analytics": {
     "impressions": 0,
     "reach": 0,
-    "likes": 8,
+    "likes": 0,
     "comments": 0,
     "shares": 0,
     "saves": 0,
     "clicks": 0,
-    "views": 328,
+    "views": 74,
     "follows": 0,
-    "igReelsAvgWatchTime": 15180,
-    "igReelsVideoViewTotalTime": 5660000,
+    "igReelsAvgWatchTime": 11560,
+    "igReelsVideoViewTotalTime": 1075000,
     "reelsSkipRate": 0,
-    "completionRate": 0.5871,
+    "completionRate": 0.5376,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
-     "personalProfile": 0.005,
      "search": 0,
      "sound": 0,
      "directMessage": 0,
      "follow": 0,
-     "forYou": 0.995,
-     "other": 0
+     "forYou": 1,
+     "other": 0,
+     "personalProfile": 0
+    },
+    "audienceTypes": {
+     "follower": 0.03,
+     "newViewer": 0,
+     "nonFollower": 0.97,
+     "returnViewer": 0
+    },
+    "audienceCountries": {},
+    "retentionCurve": {},
+    "replays": 0,
+    "reposts": 0,
+    "totalViews": null,
+    "totalLikes": null,
+    "totalComments": null,
+    "videoDurationSeconds": 0,
+    "engagementRate": 0,
+    "lastUpdated": "2026-11-19T04:12:57Z"
+   },
+   "platforms": [
+    {
+     "platform": "tiktok",
+     "status": "published",
+     "platformPostId": "7708936619767647509",
+     "accountId": "6aefc401705e34e6dc6726a0",
+     "accountUsername": "dnevnik_nekodera",
+     "analytics": {
+      "impressions": 0,
+      "reach": 0,
+      "likes": 0,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "clicks": 0,
+      "views": 74,
+      "follows": 0,
+      "igReelsAvgWatchTime": 11560,
+      "igReelsVideoViewTotalTime": 1075000,
+      "reelsSkipRate": 0,
+      "completionRate": 0.5376,
+      "profileViews": 0,
+      "websiteClicks": 0,
+      "impressionSources": {
+       "search": 0,
+       "sound": 0,
+       "directMessage": 0,
+       "follow": 0,
+       "forYou": 1,
+       "other": 0,
+       "personalProfile": 0
+      },
+      "audienceTypes": {
+       "follower": 0.03,
+       "newViewer": 0,
+       "nonFollower": 0.97,
+       "returnViewer": 0
+      },
+      "audienceCountries": {},
+      "retentionCurve": {},
+      "replays": 0,
+      "reposts": 0,
+      "totalViews": null,
+      "totalLikes": null,
+      "totalComments": null,
+      "videoDurationSeconds": 0,
+      "engagementRate": 0,
+      "lastUpdated": "2026-11-19T04:12:57Z"
+     },
+     "syncStatus": "synced",
+     "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7708936619767647509?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+     "errorMessage": null,
+     "errorCode": null,
+     "isOwner": null
+    }
+   ],
+   "platform": "tiktok",
+   "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7708936619767647509?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+   "isExternal": true,
+   "isAd": false,
+   "profileId": "6aefc38eb7cfe9e3f9486228",
+   "thumbnailUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-i-photomode-sg/c3459002ab7e4a1598dd06c9cb6b1f77~tplv-photomode-image-cover:640:0:q70.webp?dr=17580&refresh_token=171e851f&x-expires=1796328000&x-signature=Pk1sdjdyj9QvvqEZUB3m0YX1aiM%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=my2&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "mediaType": "carousel",
+   "mediaItems": [
+    {
+     "type": "image",
+     "url": "https://p16-common-sign.tiktokcdn.com/tos-alisg-i-photomode-sg/c3459002ab7e4a1598dd06c9cb6b1f77~tplv-photomode-image-cover:640:0:q70.webp?dr=17580&refresh_token=171e851f&x-expires=1796328000&x-signature=Pk1sdjdyj9QvvqEZUB3m0YX1aiM%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=my2&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+     "thumbnail": "https://p16-common-sign.tiktokcdn.com/tos-alisg-i-photomode-sg/c3459002ab7e4a1598dd06c9cb6b1f77~tplv-photomode-image-cover:640:0:q70.webp?dr=17580&refresh_token=171e851f&x-expires=1796328000&x-signature=Pk1sdjdyj9QvvqEZUB3m0YX1aiM%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=my2&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover"
+    }
+   ]
+  },
+  {
+   "_id": "6afe0b9a7ec6fb834c96bd7d",
+   "latePostId": null,
+   "content": "больше про вайбкодинг в тгк: dnevnik_nekodera #ии #claude #вайбкодинг #нейросеть",
+   "publishedAt": "2026-11-18T18:30:00.000Z",
+   "scheduledFor": "2026-11-18T18:30:00.000Z",
+   "status": "published",
+   "analytics": {
+    "impressions": 0,
+    "reach": 0,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "clicks": 0,
+    "views": 202,
+    "follows": 0,
+    "igReelsAvgWatchTime": 11500,
+    "igReelsVideoViewTotalTime": 2977000,
+    "reelsSkipRate": 0,
+    "completionRate": 0.5328,
+    "profileViews": 0,
+    "websiteClicks": 0,
+    "impressionSources": {
+     "other": 0,
+     "personalProfile": 0.004,
+     "search": 0,
+     "sound": 0,
+     "directMessage": 0,
+     "follow": 0,
+     "forYou": 0.996
     },
     "audienceTypes": {
      "follower": 0.02,
@@ -111,40 +231,40 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 2.44,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "engagementRate": 1.49,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
      "platform": "tiktok",
      "status": "published",
-     "platformPostId": "7708935772170161428",
+     "platformPostId": "7708936458987638036",
      "accountId": "6aefc401705e34e6dc6726a0",
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
       "reach": 0,
-      "likes": 8,
+      "likes": 3,
       "comments": 0,
       "shares": 0,
       "saves": 0,
       "clicks": 0,
-      "views": 328,
+      "views": 202,
       "follows": 0,
-      "igReelsAvgWatchTime": 15180,
-      "igReelsVideoViewTotalTime": 5660000,
+      "igReelsAvgWatchTime": 11500,
+      "igReelsVideoViewTotalTime": 2977000,
       "reelsSkipRate": 0,
-      "completionRate": 0.5871,
+      "completionRate": 0.5328,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-       "personalProfile": 0.005,
+       "other": 0,
+       "personalProfile": 0.004,
        "search": 0,
        "sound": 0,
        "directMessage": 0,
        "follow": 0,
-       "forYou": 0.995,
-       "other": 0
+       "forYou": 0.996
       },
       "audienceTypes": {
        "follower": 0.02,
@@ -160,8 +280,488 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 2.44,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "engagementRate": 1.49,
+      "lastUpdated": "2026-11-19T04:12:57Z"
+     },
+     "syncStatus": "synced",
+     "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7708936458987638036?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+     "errorMessage": null,
+     "errorCode": null,
+     "isOwner": null
+    }
+   ],
+   "platform": "tiktok",
+   "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7708936458987638036?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+   "isExternal": true,
+   "isAd": false,
+   "profileId": "6aefc38eb7cfe9e3f9486228",
+   "thumbnailUrl": "https://p19-common-sign.tiktokcdn.com/tos-alisg-i-photomode-sg/bfd3206ca32342eb978e35b45b0a8be3~tplv-photomode-image-cover:640:0:q70.webp?dr=17580&refresh_token=f8cdb934&x-expires=1796328000&x-signature=nItJcw%2FED9q8dT6Mt2UCMqIeUUc%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=my2&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+   "mediaType": "carousel",
+   "mediaItems": [
+    {
+     "type": "image",
+     "url": "https://p19-common-sign.tiktokcdn.com/tos-alisg-i-photomode-sg/bfd3206ca32342eb978e35b45b0a8be3~tplv-photomode-image-cover:640:0:q70.webp?dr=17580&refresh_token=f8cdb934&x-expires=1796328000&x-signature=nItJcw%2FED9q8dT6Mt2UCMqIeUUc%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=my2&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover",
+     "thumbnail": "https://p19-common-sign.tiktokcdn.com/tos-alisg-i-photomode-sg/bfd3206ca32342eb978e35b45b0a8be3~tplv-photomode-image-cover:640:0:q70.webp?dr=17580&refresh_token=f8cdb934&x-expires=1796328000&x-signature=nItJcw%2FED9q8dT6Mt2UCMqIeUUc%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=8aecc5ac&idc=my2&s=TIKTOK_FOR_DEVELOPER&biz_tag=tt_photomode&sc=cover"
+    }
+   ]
+  },
+  {
+   "_id": "6afdd6a883617b3d5cdab8b9",
+   "latePostId": null,
+   "content": "больше про вайбкодинг в тгк: dnevnik_nekodera #ии #claude #вайбкодинг #нейросеть",
+   "publishedAt": "2026-11-18T16:30:00.000Z",
+   "scheduledFor": "2026-11-18T16:30:00.000Z",
+   "status": "published",
+   "analytics": {
+    "impressions": 0,
+    "reach": 0,
+    "likes": 3,
+    "comments": 0,
+    "shares": 3,
+    "saves": 0,
+    "clicks": 0,
+    "views": 292,
+    "follows": 0,
+    "igReelsAvgWatchTime": 12260,
+    "igReelsVideoViewTotalTime": 4620000,
+    "reelsSkipRate": 0,
+    "completionRate": 0.6207,
+    "profileViews": 0,
+    "websiteClicks": 0,
+    "impressionSources": {
+     "personalProfile": 0.003,
+     "search": 0.003,
+     "sound": 0,
+     "directMessage": 0,
+     "follow": 0,
+     "forYou": 0.991,
+     "other": 0.003
+    },
+    "audienceTypes": {
+     "nonFollower": 0.99,
+     "returnViewer": 0,
+     "follower": 0.01,
+     "newViewer": 0
+    },
+    "audienceCountries": {},
+    "retentionCurve": {},
+    "replays": 0,
+    "reposts": 0,
+    "totalViews": null,
+    "totalLikes": null,
+    "totalComments": null,
+    "videoDurationSeconds": 0,
+    "engagementRate": 2.05,
+    "lastUpdated": "2026-11-19T04:12:57Z"
+   },
+   "platforms": [
+    {
+     "platform": "tiktok",
+     "status": "published",
+     "platformPostId": "7708936292670737684",
+     "accountId": "6aefc401705e34e6dc6726a0",
+     "accountUsername": "dnevnik_nekodera",
+     "analytics": {
+      "impressions": 0,
+      "reach": 0,
+      "likes": 3,
+      "comments": 0,
+      "shares": 3,
+      "saves": 0,
+      "clicks": 0,
+      "views": 292,
+      "follows": 0,
+      "igReelsAvgWatchTime": 12260,
+      "igReelsVideoViewTotalTime": 4620000,
+      "reelsSkipRate": 0,
+      "completionRate": 0.6207,
+      "profileViews": 0,
+      "websiteClicks": 0,
+      "impressionSources": {
+       "personalProfile": 0.003,
+       "search": 0.003,
+       "sound": 0,
+       "directMessage": 0,
+       "follow": 0,
+       "forYou": 0.991,
+       "other": 0.003
+      },
+      "audienceTypes": {
+       "nonFollower": 0.99,
+       "returnViewer": 0,
+       "follower": 0.01,
+       "newViewer": 0
+      },
+      "audienceCountries": {},
+      "retentionCurve": {},
+      "replays": 0,
+      "reposts": 0,
+      "totalViews": null,
+      "totalLikes": null,
+      "totalComments": null,
+      "videoDurationSeconds": 0,
+      "engagementRate": 2.05,
+      "lastUpdated": "2026-11-19T04:12:57Z"
+     },
+     "syncStatus": "synced",
+     "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7708936292670737684?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+     "errorMessage": null,
+     "errorCode": null,
+     "isOwner": null
+    }
+   ],
+   "platform": "tiktok",
+   "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7708936292670737684?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+   "isExternal": true,
+   "isAd": false,
+   "profileId": "6aefc38eb7cfe9e3f9486228",
+   "thumbnailUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-i-photomode-sg/8b3cefd3aefd4acebcd440ece06498eb~tplv-photomode-image-cover:640:0:q70.webp?dr=17580&refresh_token=54434155&x-expires=1796313600&x-signature=2k3eg1BYzP5uqABBO1SS8%2FUWrJE%3D&biz_tag=tt_photomode&idc=my2&ps=d5b8ac02&s=TIKTOK_FOR_DEVELOPER&sc=cover&shcp=8aecc5ac&shp=d05b14bd&t=5897f7ec&tip=1",
+   "mediaType": "carousel",
+   "mediaItems": [
+    {
+     "type": "image",
+     "url": "https://p16-common-sign.tiktokcdn.com/tos-alisg-i-photomode-sg/8b3cefd3aefd4acebcd440ece06498eb~tplv-photomode-image-cover:640:0:q70.webp?dr=17580&refresh_token=54434155&x-expires=1796313600&x-signature=2k3eg1BYzP5uqABBO1SS8%2FUWrJE%3D&biz_tag=tt_photomode&idc=my2&ps=d5b8ac02&s=TIKTOK_FOR_DEVELOPER&sc=cover&shcp=8aecc5ac&shp=d05b14bd&t=5897f7ec&tip=1",
+     "thumbnail": "https://p16-common-sign.tiktokcdn.com/tos-alisg-i-photomode-sg/8b3cefd3aefd4acebcd440ece06498eb~tplv-photomode-image-cover:640:0:q70.webp?dr=17580&refresh_token=54434155&x-expires=1796313600&x-signature=2k3eg1BYzP5uqABBO1SS8%2FUWrJE%3D&biz_tag=tt_photomode&idc=my2&ps=d5b8ac02&s=TIKTOK_FOR_DEVELOPER&sc=cover&shcp=8aecc5ac&shp=d05b14bd&t=5897f7ec&tip=1"
+    }
+   ]
+  },
+  {
+   "_id": "6afdd6a883617b3d5cdab8b8",
+   "latePostId": null,
+   "content": "больше про вайбкодинг в тгк: dnevnik_nekodera #ии #claude #вайбкодинг #нейросеть",
+   "publishedAt": "2026-11-18T14:30:00.000Z",
+   "scheduledFor": "2026-11-18T14:30:00.000Z",
+   "status": "published",
+   "analytics": {
+    "impressions": 0,
+    "reach": 0,
+    "likes": 7,
+    "comments": 0,
+    "shares": 1,
+    "saves": 0,
+    "clicks": 0,
+    "views": 323,
+    "follows": 0,
+    "igReelsAvgWatchTime": 17890,
+    "igReelsVideoViewTotalTime": 7550000,
+    "reelsSkipRate": 0,
+    "completionRate": 0.5687,
+    "profileViews": 0,
+    "websiteClicks": 0,
+    "impressionSources": {
+     "forYou": 0.993,
+     "other": 0,
+     "personalProfile": 0.002,
+     "search": 0.005,
+     "sound": 0,
+     "directMessage": 0,
+     "follow": 0
+    },
+    "audienceTypes": {
+     "newViewer": 0,
+     "nonFollower": 0.99,
+     "returnViewer": 0,
+     "follower": 0.01
+    },
+    "audienceCountries": {},
+    "retentionCurve": {},
+    "replays": 0,
+    "reposts": 0,
+    "totalViews": null,
+    "totalLikes": null,
+    "totalComments": null,
+    "videoDurationSeconds": 0,
+    "engagementRate": 2.48,
+    "lastUpdated": "2026-11-19T04:12:57Z"
+   },
+   "platforms": [
+    {
+     "platform": "tiktok",
+     "status": "published",
+     "platformPostId": "7708936130825178388",
+     "accountId": "6aefc401705e34e6dc6726a0",
+     "accountUsername": "dnevnik_nekodera",
+     "analytics": {
+      "impressions": 0,
+      "reach": 0,
+      "likes": 7,
+      "comments": 0,
+      "shares": 1,
+      "saves": 0,
+      "clicks": 0,
+      "views": 323,
+      "follows": 0,
+      "igReelsAvgWatchTime": 17890,
+      "igReelsVideoViewTotalTime": 7550000,
+      "reelsSkipRate": 0,
+      "completionRate": 0.5687,
+      "profileViews": 0,
+      "websiteClicks": 0,
+      "impressionSources": {
+       "forYou": 0.993,
+       "other": 0,
+       "personalProfile": 0.002,
+       "search": 0.005,
+       "sound": 0,
+       "directMessage": 0,
+       "follow": 0
+      },
+      "audienceTypes": {
+       "newViewer": 0,
+       "nonFollower": 0.99,
+       "returnViewer": 0,
+       "follower": 0.01
+      },
+      "audienceCountries": {},
+      "retentionCurve": {},
+      "replays": 0,
+      "reposts": 0,
+      "totalViews": null,
+      "totalLikes": null,
+      "totalComments": null,
+      "videoDurationSeconds": 0,
+      "engagementRate": 2.48,
+      "lastUpdated": "2026-11-19T04:12:57Z"
+     },
+     "syncStatus": "synced",
+     "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7708936130825178388?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+     "errorMessage": null,
+     "errorCode": null,
+     "isOwner": null
+    }
+   ],
+   "platform": "tiktok",
+   "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7708936130825178388?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+   "isExternal": true,
+   "isAd": false,
+   "profileId": "6aefc38eb7cfe9e3f9486228",
+   "thumbnailUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-i-photomode-sg/af4debbbdaea49e4af0fd0b3f3433cd4~tplv-photomode-image-cover:640:0:q70.webp?dr=17580&refresh_token=c017b5e6&x-expires=1796313600&x-signature=v7NebR0EB9fZNhT00vfRRU3YMRY%3D&biz_tag=tt_photomode&idc=my2&ps=d5b8ac02&s=TIKTOK_FOR_DEVELOPER&sc=cover&shcp=8aecc5ac&shp=d05b14bd&t=5897f7ec&tip=1",
+   "mediaType": "carousel",
+   "mediaItems": [
+    {
+     "type": "image",
+     "url": "https://p16-common-sign.tiktokcdn.com/tos-alisg-i-photomode-sg/af4debbbdaea49e4af0fd0b3f3433cd4~tplv-photomode-image-cover:640:0:q70.webp?dr=17580&refresh_token=c017b5e6&x-expires=1796313600&x-signature=v7NebR0EB9fZNhT00vfRRU3YMRY%3D&biz_tag=tt_photomode&idc=my2&ps=d5b8ac02&s=TIKTOK_FOR_DEVELOPER&sc=cover&shcp=8aecc5ac&shp=d05b14bd&t=5897f7ec&tip=1",
+     "thumbnail": "https://p16-common-sign.tiktokcdn.com/tos-alisg-i-photomode-sg/af4debbbdaea49e4af0fd0b3f3433cd4~tplv-photomode-image-cover:640:0:q70.webp?dr=17580&refresh_token=c017b5e6&x-expires=1796313600&x-signature=v7NebR0EB9fZNhT00vfRRU3YMRY%3D&biz_tag=tt_photomode&idc=my2&ps=d5b8ac02&s=TIKTOK_FOR_DEVELOPER&sc=cover&shcp=8aecc5ac&shp=d05b14bd&t=5897f7ec&tip=1"
+    }
+   ]
+  },
+  {
+   "_id": "6afda1e59982675ecdaa63a4",
+   "latePostId": null,
+   "content": "больше про вайбкодинг в тгк: dnevnik_nekodera #ии #claude #вайбкодинг #нейросеть",
+   "publishedAt": "2026-11-18T10:30:00.000Z",
+   "scheduledFor": "2026-11-18T10:30:00.000Z",
+   "status": "published",
+   "analytics": {
+    "impressions": 0,
+    "reach": 0,
+    "likes": 12,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "clicks": 0,
+    "views": 431,
+    "follows": 1,
+    "igReelsAvgWatchTime": 14140,
+    "igReelsVideoViewTotalTime": 7678000,
+    "reelsSkipRate": 0,
+    "completionRate": 0.5654,
+    "profileViews": 0,
+    "websiteClicks": 0,
+    "impressionSources": {
+     "sound": 0,
+     "directMessage": 0,
+     "follow": 0,
+     "forYou": 0.992,
+     "other": 0.002,
+     "personalProfile": 0.006,
+     "search": 0
+    },
+    "audienceTypes": {
+     "newViewer": 0,
+     "nonFollower": 0.99,
+     "returnViewer": 0,
+     "follower": 0.01
+    },
+    "audienceCountries": {},
+    "retentionCurve": {},
+    "replays": 0,
+    "reposts": 0,
+    "totalViews": null,
+    "totalLikes": null,
+    "totalComments": null,
+    "videoDurationSeconds": 0,
+    "engagementRate": 2.78,
+    "lastUpdated": "2026-11-19T04:12:57Z"
+   },
+   "platforms": [
+    {
+     "platform": "tiktok",
+     "status": "published",
+     "platformPostId": "7708935942849056001",
+     "accountId": "6aefc401705e34e6dc6726a0",
+     "accountUsername": "dnevnik_nekodera",
+     "analytics": {
+      "impressions": 0,
+      "reach": 0,
+      "likes": 12,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "clicks": 0,
+      "views": 431,
+      "follows": 1,
+      "igReelsAvgWatchTime": 14140,
+      "igReelsVideoViewTotalTime": 7678000,
+      "reelsSkipRate": 0,
+      "completionRate": 0.5654,
+      "profileViews": 0,
+      "websiteClicks": 0,
+      "impressionSources": {
+       "sound": 0,
+       "directMessage": 0,
+       "follow": 0,
+       "forYou": 0.992,
+       "other": 0.002,
+       "personalProfile": 0.006,
+       "search": 0
+      },
+      "audienceTypes": {
+       "newViewer": 0,
+       "nonFollower": 0.99,
+       "returnViewer": 0,
+       "follower": 0.01
+      },
+      "audienceCountries": {},
+      "retentionCurve": {},
+      "replays": 0,
+      "reposts": 0,
+      "totalViews": null,
+      "totalLikes": null,
+      "totalComments": null,
+      "videoDurationSeconds": 0,
+      "engagementRate": 2.78,
+      "lastUpdated": "2026-11-19T04:12:57Z"
+     },
+     "syncStatus": "synced",
+     "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7708935942849056001?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+     "errorMessage": null,
+     "errorCode": null,
+     "isOwner": null
+    }
+   ],
+   "platform": "tiktok",
+   "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7708935942849056001?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
+   "isExternal": true,
+   "isAd": false,
+   "profileId": "6aefc38eb7cfe9e3f9486228",
+   "thumbnailUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-i-photomode-sg/0522f704a88f42189ba46e82ca0457e9~tplv-photomode-image-cover:640:0:q70.webp?dr=17580&refresh_token=55f14833&x-expires=1796302800&x-signature=IVSMgdea5p4j827ovoOLGzi9iZI%3D&biz_tag=tt_photomode&idc=my2&ps=d5b8ac02&s=TIKTOK_FOR_DEVELOPER&sc=cover&shcp=8aecc5ac&shp=d05b14bd&t=5897f7ec&tip=1",
+   "mediaType": "carousel",
+   "mediaItems": [
+    {
+     "type": "image",
+     "url": "https://p16-common-sign.tiktokcdn.com/tos-alisg-i-photomode-sg/0522f704a88f42189ba46e82ca0457e9~tplv-photomode-image-cover:640:0:q70.webp?dr=17580&refresh_token=55f14833&x-expires=1796302800&x-signature=IVSMgdea5p4j827ovoOLGzi9iZI%3D&biz_tag=tt_photomode&idc=my2&ps=d5b8ac02&s=TIKTOK_FOR_DEVELOPER&sc=cover&shcp=8aecc5ac&shp=d05b14bd&t=5897f7ec&tip=1",
+     "thumbnail": "https://p16-common-sign.tiktokcdn.com/tos-alisg-i-photomode-sg/0522f704a88f42189ba46e82ca0457e9~tplv-photomode-image-cover:640:0:q70.webp?dr=17580&refresh_token=55f14833&x-expires=1796302800&x-signature=IVSMgdea5p4j827ovoOLGzi9iZI%3D&biz_tag=tt_photomode&idc=my2&ps=d5b8ac02&s=TIKTOK_FOR_DEVELOPER&sc=cover&shcp=8aecc5ac&shp=d05b14bd&t=5897f7ec&tip=1"
+    }
+   ]
+  },
+  {
+   "_id": "6afccf62aaa40c3a54effa7e",
+   "latePostId": null,
+   "content": "больше про вайбкодинг в тгк: dnevnik_nekodera #ии #claude #вайбкодинг #нейросеть",
+   "publishedAt": "2026-11-17T20:30:00.000Z",
+   "scheduledFor": "2026-11-17T20:30:00.000Z",
+   "status": "published",
+   "analytics": {
+    "impressions": 0,
+    "reach": 0,
+    "likes": 13,
+    "comments": 0,
+    "shares": 0,
+    "saves": 0,
+    "clicks": 0,
+    "views": 439,
+    "follows": 0,
+    "igReelsAvgWatchTime": 15360,
+    "igReelsVideoViewTotalTime": 7972000,
+    "reelsSkipRate": 0,
+    "completionRate": 0.5934,
+    "profileViews": 0,
+    "websiteClicks": 0,
+    "impressionSources": {
+     "sound": 0,
+     "directMessage": 0,
+     "follow": 0.002,
+     "forYou": 0.984,
+     "other": 0.004,
+     "personalProfile": 0.01,
+     "search": 0
+    },
+    "audienceTypes": {
+     "follower": 0.02,
+     "newViewer": 0,
+     "nonFollower": 0.98,
+     "returnViewer": 0
+    },
+    "audienceCountries": {},
+    "retentionCurve": {},
+    "replays": 0,
+    "reposts": 0,
+    "totalViews": null,
+    "totalLikes": null,
+    "totalComments": null,
+    "videoDurationSeconds": 0,
+    "engagementRate": 2.96,
+    "lastUpdated": "2026-11-19T04:12:57Z"
+   },
+   "platforms": [
+    {
+     "platform": "tiktok",
+     "status": "published",
+     "platformPostId": "7708935772170161428",
+     "accountId": "6aefc401705e34e6dc6726a0",
+     "accountUsername": "dnevnik_nekodera",
+     "analytics": {
+      "impressions": 0,
+      "reach": 0,
+      "likes": 13,
+      "comments": 0,
+      "shares": 0,
+      "saves": 0,
+      "clicks": 0,
+      "views": 439,
+      "follows": 0,
+      "igReelsAvgWatchTime": 15360,
+      "igReelsVideoViewTotalTime": 7972000,
+      "reelsSkipRate": 0,
+      "completionRate": 0.5934,
+      "profileViews": 0,
+      "websiteClicks": 0,
+      "impressionSources": {
+       "sound": 0,
+       "directMessage": 0,
+       "follow": 0.002,
+       "forYou": 0.984,
+       "other": 0.004,
+       "personalProfile": 0.01,
+       "search": 0
+      },
+      "audienceTypes": {
+       "follower": 0.02,
+       "newViewer": 0,
+       "nonFollower": 0.98,
+       "returnViewer": 0
+      },
+      "audienceCountries": {},
+      "retentionCurve": {},
+      "replays": 0,
+      "reposts": 0,
+      "totalViews": null,
+      "totalLikes": null,
+      "totalComments": null,
+      "videoDurationSeconds": 0,
+      "engagementRate": 2.96,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7708935772170161428?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -195,32 +795,32 @@
    "analytics": {
     "impressions": 0,
     "reach": 0,
-    "likes": 6,
+    "likes": 9,
     "comments": 0,
     "shares": 0,
     "saves": 0,
     "clicks": 0,
-    "views": 339,
+    "views": 419,
     "follows": 0,
-    "igReelsAvgWatchTime": 16350,
-    "igReelsVideoViewTotalTime": 7030000,
+    "igReelsAvgWatchTime": 16410,
+    "igReelsVideoViewTotalTime": 8682000,
     "reelsSkipRate": 0,
-    "completionRate": 0.6023,
+    "completionRate": 0.6106,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
-     "forYou": 0.995,
-     "other": 0,
-     "personalProfile": 0.005,
+     "personalProfile": 0.011,
      "search": 0,
      "sound": 0,
      "directMessage": 0,
-     "follow": 0
+     "follow": 0.006,
+     "forYou": 0.981,
+     "other": 0.002
     },
     "audienceTypes": {
-     "follower": 0.01,
+     "follower": 0.02,
      "newViewer": 0,
-     "nonFollower": 0.99,
+     "nonFollower": 0.98,
      "returnViewer": 0
     },
     "audienceCountries": {},
@@ -231,8 +831,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 1.77,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "engagementRate": 2.15,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -244,32 +844,32 @@
      "analytics": {
       "impressions": 0,
       "reach": 0,
-      "likes": 6,
+      "likes": 9,
       "comments": 0,
       "shares": 0,
       "saves": 0,
       "clicks": 0,
-      "views": 339,
+      "views": 419,
       "follows": 0,
-      "igReelsAvgWatchTime": 16350,
-      "igReelsVideoViewTotalTime": 7030000,
+      "igReelsAvgWatchTime": 16410,
+      "igReelsVideoViewTotalTime": 8682000,
       "reelsSkipRate": 0,
-      "completionRate": 0.6023,
+      "completionRate": 0.6106,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-       "forYou": 0.995,
-       "other": 0,
-       "personalProfile": 0.005,
+       "personalProfile": 0.011,
        "search": 0,
        "sound": 0,
        "directMessage": 0,
-       "follow": 0
+       "follow": 0.006,
+       "forYou": 0.981,
+       "other": 0.002
       },
       "audienceTypes": {
-       "follower": 0.01,
+       "follower": 0.02,
        "newViewer": 0,
-       "nonFollower": 0.99,
+       "nonFollower": 0.98,
        "returnViewer": 0
       },
       "audienceCountries": {},
@@ -280,8 +880,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 1.77,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "engagementRate": 2.15,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7708935622014061844?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -320,22 +920,22 @@
     "shares": 0,
     "saves": 0,
     "clicks": 0,
-    "views": 461,
+    "views": 494,
     "follows": 0,
-    "igReelsAvgWatchTime": 15600,
-    "igReelsVideoViewTotalTime": 9235000,
+    "igReelsAvgWatchTime": 15270,
+    "igReelsVideoViewTotalTime": 9742000,
     "reelsSkipRate": 0,
-    "completionRate": 0.6875,
+    "completionRate": 0.6803,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
-     "directMessage": 0,
-     "follow": 0,
-     "forYou": 0.992,
-     "other": 0.005,
-     "personalProfile": 0.003,
+     "follow": 0.003,
+     "forYou": 0.985,
+     "other": 0.006,
+     "personalProfile": 0.006,
      "search": 0,
-     "sound": 0
+     "sound": 0,
+     "directMessage": 0
     },
     "audienceTypes": {
      "follower": 0.01,
@@ -351,8 +951,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 1.95,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "engagementRate": 1.82,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -369,22 +969,22 @@
       "shares": 0,
       "saves": 0,
       "clicks": 0,
-      "views": 461,
+      "views": 494,
       "follows": 0,
-      "igReelsAvgWatchTime": 15600,
-      "igReelsVideoViewTotalTime": 9235000,
+      "igReelsAvgWatchTime": 15270,
+      "igReelsVideoViewTotalTime": 9742000,
       "reelsSkipRate": 0,
-      "completionRate": 0.6875,
+      "completionRate": 0.6803,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-       "directMessage": 0,
-       "follow": 0,
-       "forYou": 0.992,
-       "other": 0.005,
-       "personalProfile": 0.003,
+       "follow": 0.003,
+       "forYou": 0.985,
+       "other": 0.006,
+       "personalProfile": 0.006,
        "search": 0,
-       "sound": 0
+       "sound": 0,
+       "directMessage": 0
       },
       "audienceTypes": {
        "follower": 0.01,
@@ -400,8 +1000,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 1.95,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "engagementRate": 1.82,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7708935463318408469?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -440,28 +1040,28 @@
     "shares": 0,
     "saves": 0,
     "clicks": 0,
-    "views": 316,
+    "views": 354,
     "follows": 0,
-    "igReelsAvgWatchTime": 14710,
-    "igReelsVideoViewTotalTime": 5780000,
+    "igReelsAvgWatchTime": 14420,
+    "igReelsVideoViewTotalTime": 6547000,
     "reelsSkipRate": 0,
-    "completionRate": 0.5827,
+    "completionRate": 0.5771,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
-     "personalProfile": 0.003,
-     "search": 0,
-     "sound": 0,
      "directMessage": 0,
-     "follow": 0.003,
-     "forYou": 0.989,
-     "other": 0.005
+     "follow": 0.009,
+     "forYou": 0.977,
+     "other": 0.007,
+     "personalProfile": 0.007,
+     "search": 0,
+     "sound": 0
     },
     "audienceTypes": {
-     "returnViewer": 0,
-     "follower": 0.01,
+     "follower": 0.02,
      "newViewer": 0,
-     "nonFollower": 0.99
+     "nonFollower": 0.98,
+     "returnViewer": 0
     },
     "audienceCountries": {},
     "retentionCurve": {},
@@ -471,8 +1071,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 0.32,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "engagementRate": 0.28,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -489,28 +1089,28 @@
       "shares": 0,
       "saves": 0,
       "clicks": 0,
-      "views": 316,
+      "views": 354,
       "follows": 0,
-      "igReelsAvgWatchTime": 14710,
-      "igReelsVideoViewTotalTime": 5780000,
+      "igReelsAvgWatchTime": 14420,
+      "igReelsVideoViewTotalTime": 6547000,
       "reelsSkipRate": 0,
-      "completionRate": 0.5827,
+      "completionRate": 0.5771,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-       "personalProfile": 0.003,
-       "search": 0,
-       "sound": 0,
        "directMessage": 0,
-       "follow": 0.003,
-       "forYou": 0.989,
-       "other": 0.005
+       "follow": 0.009,
+       "forYou": 0.977,
+       "other": 0.007,
+       "personalProfile": 0.007,
+       "search": 0,
+       "sound": 0
       },
       "audienceTypes": {
-       "returnViewer": 0,
-       "follower": 0.01,
+       "follower": 0.02,
        "newViewer": 0,
-       "nonFollower": 0.99
+       "nonFollower": 0.98,
+       "returnViewer": 0
       },
       "audienceCountries": {},
       "retentionCurve": {},
@@ -520,8 +1120,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 0.32,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "engagementRate": 0.28,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7708935263917165844?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -560,28 +1160,28 @@
     "shares": 3,
     "saves": 0,
     "clicks": 0,
-    "views": 412,
+    "views": 461,
     "follows": 0,
-    "igReelsAvgWatchTime": 11270,
-    "igReelsVideoViewTotalTime": 5488000,
+    "igReelsAvgWatchTime": 11890,
+    "igReelsVideoViewTotalTime": 6720000,
     "reelsSkipRate": 0,
-    "completionRate": 0.5667,
+    "completionRate": 0.5841,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
+     "forYou": 0.984,
+     "other": 0.009,
+     "personalProfile": 0.005,
+     "search": 0,
      "sound": 0,
      "directMessage": 0,
-     "follow": 0,
-     "forYou": 0.988,
-     "other": 0.008,
-     "personalProfile": 0.004,
-     "search": 0
+     "follow": 0.002
     },
     "audienceTypes": {
-     "newViewer": 0,
-     "nonFollower": 0.98,
      "returnViewer": 0,
-     "follower": 0.02
+     "follower": 0.02,
+     "newViewer": 0,
+     "nonFollower": 0.98
     },
     "audienceCountries": {},
     "retentionCurve": {},
@@ -591,8 +1191,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 2.43,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "engagementRate": 2.17,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -609,28 +1209,28 @@
       "shares": 3,
       "saves": 0,
       "clicks": 0,
-      "views": 412,
+      "views": 461,
       "follows": 0,
-      "igReelsAvgWatchTime": 11270,
-      "igReelsVideoViewTotalTime": 5488000,
+      "igReelsAvgWatchTime": 11890,
+      "igReelsVideoViewTotalTime": 6720000,
       "reelsSkipRate": 0,
-      "completionRate": 0.5667,
+      "completionRate": 0.5841,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+       "forYou": 0.984,
+       "other": 0.009,
+       "personalProfile": 0.005,
+       "search": 0,
        "sound": 0,
        "directMessage": 0,
-       "follow": 0,
-       "forYou": 0.988,
-       "other": 0.008,
-       "personalProfile": 0.004,
-       "search": 0
+       "follow": 0.002
       },
       "audienceTypes": {
-       "newViewer": 0,
-       "nonFollower": 0.98,
        "returnViewer": 0,
-       "follower": 0.02
+       "follower": 0.02,
+       "newViewer": 0,
+       "nonFollower": 0.98
       },
       "audienceCountries": {},
       "retentionCurve": {},
@@ -640,8 +1240,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 2.43,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "engagementRate": 2.17,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7708932198086266164?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -674,36 +1274,48 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 0,
-    "likes": 1295,
-    "comments": 8,
-    "shares": 383,
-    "saves": 121,
+    "reach": 826,
+    "likes": 2137,
+    "comments": 12,
+    "shares": 602,
+    "saves": 211,
     "clicks": 0,
-    "views": 14113,
-    "follows": 9,
-    "igReelsAvgWatchTime": 15730,
-    "igReelsVideoViewTotalTime": 286680000,
+    "views": 21898,
+    "follows": 15,
+    "igReelsAvgWatchTime": 16060,
+    "igReelsVideoViewTotalTime": 460610000,
     "reelsSkipRate": 0,
-    "completionRate": 0.6173,
+    "completionRate": 0.615,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
+     "follow": 0,
+     "forYou": 0.977,
+     "other": 0.016,
+     "personalProfile": 0.006,
      "search": 0,
      "sound": 0,
-     "directMessage": 0.001,
-     "follow": 0,
-     "forYou": 0.983,
-     "other": 0.012,
-     "personalProfile": 0.004
+     "directMessage": 0.001
     },
     "audienceTypes": {
-     "newViewer": 0,
+     "follower": 0,
+     "newViewer": 0.56,
      "nonFollower": 1,
-     "returnViewer": 0,
-     "follower": 0
+     "returnViewer": 0.44
     },
-    "audienceCountries": {},
+    "audienceCountries": {
+     "BY": 0.229,
+     "US": 0.159,
+     "KZ": 0.136,
+     "UA": 0.136,
+     "DE": 0.057,
+     "GB": 0.038,
+     "NL": 0.037,
+     "PL": 0.022,
+     "SE": 0.013,
+     "BR": 0.011,
+     "other": 0.162
+    },
     "retentionCurve": {},
     "replays": 0,
     "reposts": 0,
@@ -711,8 +1323,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 12.8,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "engagementRate": 358.6,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -723,36 +1335,48 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 0,
-      "likes": 1295,
-      "comments": 8,
-      "shares": 383,
-      "saves": 121,
+      "reach": 826,
+      "likes": 2137,
+      "comments": 12,
+      "shares": 602,
+      "saves": 211,
       "clicks": 0,
-      "views": 14113,
-      "follows": 9,
-      "igReelsAvgWatchTime": 15730,
-      "igReelsVideoViewTotalTime": 286680000,
+      "views": 21898,
+      "follows": 15,
+      "igReelsAvgWatchTime": 16060,
+      "igReelsVideoViewTotalTime": 460610000,
       "reelsSkipRate": 0,
-      "completionRate": 0.6173,
+      "completionRate": 0.615,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+       "follow": 0,
+       "forYou": 0.977,
+       "other": 0.016,
+       "personalProfile": 0.006,
        "search": 0,
        "sound": 0,
-       "directMessage": 0.001,
-       "follow": 0,
-       "forYou": 0.983,
-       "other": 0.012,
-       "personalProfile": 0.004
+       "directMessage": 0.001
       },
       "audienceTypes": {
-       "newViewer": 0,
+       "follower": 0,
+       "newViewer": 0.56,
        "nonFollower": 1,
-       "returnViewer": 0,
-       "follower": 0
+       "returnViewer": 0.44
       },
-      "audienceCountries": {},
+      "audienceCountries": {
+       "BY": 0.229,
+       "US": 0.159,
+       "KZ": 0.136,
+       "UA": 0.136,
+       "DE": 0.057,
+       "GB": 0.038,
+       "NL": 0.037,
+       "PL": 0.022,
+       "SE": 0.013,
+       "BR": 0.011,
+       "other": 0.162
+      },
       "retentionCurve": {},
       "replays": 0,
       "reposts": 0,
@@ -760,8 +1384,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 12.8,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "engagementRate": 358.6,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7708375571180326196?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -794,47 +1418,47 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 209,
+    "reach": 498,
     "likes": 22,
     "comments": 1,
     "shares": 6,
     "saves": 2,
     "clicks": 0,
-    "views": 593,
+    "views": 595,
     "follows": 0,
     "igReelsAvgWatchTime": 8210,
-    "igReelsVideoViewTotalTime": 5477000,
+    "igReelsVideoViewTotalTime": 5510000,
     "reelsSkipRate": 0,
-    "completionRate": 0.6012,
+    "completionRate": 0.6021,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
-     "other": 0.004,
-     "personalProfile": 0.021,
      "search": 0,
      "sound": 0,
      "directMessage": 0.001,
-     "follow": 0.001,
-     "forYou": 0.973
+     "follow": 0.003,
+     "forYou": 0.97,
+     "other": 0.004,
+     "personalProfile": 0.022
     },
     "audienceTypes": {
      "nonFollower": 0.99,
-     "returnViewer": 0.54,
+     "returnViewer": 0.66,
      "follower": 0.01,
-     "newViewer": 0.46
+     "newViewer": 0.34
     },
     "audienceCountries": {
      "BY": 0.217,
-     "US": 0.202,
-     "UA": 0.102,
-     "KZ": 0.093,
+     "US": 0.201,
+     "UA": 0.106,
+     "KZ": 0.092,
      "DE": 0.051,
      "NL": 0.036,
-     "GB": 0.035,
+     "GB": 0.034,
      "PL": 0.023,
      "LV": 0.021,
      "SE": 0.014,
-     "other": 0.206
+     "other": 0.205
     },
     "retentionCurve": {},
     "replays": 0,
@@ -843,8 +1467,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 14.83,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "engagementRate": 6.22,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -855,47 +1479,47 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 209,
+      "reach": 498,
       "likes": 22,
       "comments": 1,
       "shares": 6,
       "saves": 2,
       "clicks": 0,
-      "views": 593,
+      "views": 595,
       "follows": 0,
       "igReelsAvgWatchTime": 8210,
-      "igReelsVideoViewTotalTime": 5477000,
+      "igReelsVideoViewTotalTime": 5510000,
       "reelsSkipRate": 0,
-      "completionRate": 0.6012,
+      "completionRate": 0.6021,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-       "other": 0.004,
-       "personalProfile": 0.021,
        "search": 0,
        "sound": 0,
        "directMessage": 0.001,
-       "follow": 0.001,
-       "forYou": 0.973
+       "follow": 0.003,
+       "forYou": 0.97,
+       "other": 0.004,
+       "personalProfile": 0.022
       },
       "audienceTypes": {
        "nonFollower": 0.99,
-       "returnViewer": 0.54,
+       "returnViewer": 0.66,
        "follower": 0.01,
-       "newViewer": 0.46
+       "newViewer": 0.34
       },
       "audienceCountries": {
        "BY": 0.217,
-       "US": 0.202,
-       "UA": 0.102,
-       "KZ": 0.093,
+       "US": 0.201,
+       "UA": 0.106,
+       "KZ": 0.092,
        "DE": 0.051,
        "NL": 0.036,
-       "GB": 0.035,
+       "GB": 0.034,
        "PL": 0.023,
        "LV": 0.021,
        "SE": 0.014,
-       "other": 0.206
+       "other": 0.205
       },
       "retentionCurve": {},
       "replays": 0,
@@ -904,8 +1528,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 14.83,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "engagementRate": 6.22,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7708375304930086165?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -938,47 +1562,47 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 350,
-    "likes": 93,
+    "reach": 2120,
+    "likes": 107,
     "comments": 0,
-    "shares": 13,
-    "saves": 5,
+    "shares": 14,
+    "saves": 6,
     "clicks": 0,
-    "views": 2880,
+    "views": 3428,
     "follows": 1,
-    "igReelsAvgWatchTime": 15200,
-    "igReelsVideoViewTotalTime": 56728000,
+    "igReelsAvgWatchTime": 14940,
+    "igReelsVideoViewTotalTime": 66963000,
     "reelsSkipRate": 0,
-    "completionRate": 0.495,
+    "completionRate": 0.4849,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
      "sound": 0,
      "directMessage": 0,
      "follow": 0.001,
-     "forYou": 0.995,
+     "forYou": 0.994,
      "other": 0.001,
-     "personalProfile": 0.003,
+     "personalProfile": 0.004,
      "search": 0
     },
     "audienceTypes": {
-     "follower": 0,
-     "newViewer": 0.5,
      "nonFollower": 1,
-     "returnViewer": 0.5
+     "returnViewer": 0.51,
+     "follower": 0,
+     "newViewer": 0.49
     },
     "audienceCountries": {
-     "BY": 0.311,
-     "US": 0.204,
-     "KZ": 0.128,
-     "UA": 0.093,
-     "DE": 0.035,
-     "GB": 0.03,
+     "BY": 0.304,
+     "US": 0.202,
+     "KZ": 0.131,
+     "UA": 0.1,
+     "DE": 0.037,
      "NL": 0.029,
+     "GB": 0.028,
      "PL": 0.018,
-     "LV": 0.011,
-     "JP": 0.009,
-     "other": 0.132
+     "JP": 0.01,
+     "LV": 0.01,
+     "other": 0.131
     },
     "retentionCurve": {},
     "replays": 0,
@@ -987,8 +1611,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 31.71,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "engagementRate": 5.99,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -999,47 +1623,47 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 350,
-      "likes": 93,
+      "reach": 2120,
+      "likes": 107,
       "comments": 0,
-      "shares": 13,
-      "saves": 5,
+      "shares": 14,
+      "saves": 6,
       "clicks": 0,
-      "views": 2880,
+      "views": 3428,
       "follows": 1,
-      "igReelsAvgWatchTime": 15200,
-      "igReelsVideoViewTotalTime": 56728000,
+      "igReelsAvgWatchTime": 14940,
+      "igReelsVideoViewTotalTime": 66963000,
       "reelsSkipRate": 0,
-      "completionRate": 0.495,
+      "completionRate": 0.4849,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
        "sound": 0,
        "directMessage": 0,
        "follow": 0.001,
-       "forYou": 0.995,
+       "forYou": 0.994,
        "other": 0.001,
-       "personalProfile": 0.003,
+       "personalProfile": 0.004,
        "search": 0
       },
       "audienceTypes": {
-       "follower": 0,
-       "newViewer": 0.5,
        "nonFollower": 1,
-       "returnViewer": 0.5
+       "returnViewer": 0.51,
+       "follower": 0,
+       "newViewer": 0.49
       },
       "audienceCountries": {
-       "BY": 0.311,
-       "US": 0.204,
-       "KZ": 0.128,
-       "UA": 0.093,
-       "DE": 0.035,
-       "GB": 0.03,
+       "BY": 0.304,
+       "US": 0.202,
+       "KZ": 0.131,
+       "UA": 0.1,
+       "DE": 0.037,
        "NL": 0.029,
+       "GB": 0.028,
        "PL": 0.018,
-       "LV": 0.011,
-       "JP": 0.009,
-       "other": 0.132
+       "JP": 0.01,
+       "LV": 0.01,
+       "other": 0.131
       },
       "retentionCurve": {},
       "replays": 0,
@@ -1048,8 +1672,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 31.71,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "engagementRate": 5.99,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7708375034275859733?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -1082,47 +1706,47 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 617,
+    "reach": 1059,
     "likes": 25,
     "comments": 0,
     "shares": 2,
     "saves": 0,
     "clicks": 0,
-    "views": 1158,
+    "views": 1192,
     "follows": 0,
-    "igReelsAvgWatchTime": 12380,
-    "igReelsVideoViewTotalTime": 17602000,
+    "igReelsAvgWatchTime": 12310,
+    "igReelsVideoViewTotalTime": 18114000,
     "reelsSkipRate": 0,
-    "completionRate": 0.6828,
+    "completionRate": 0.6807,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
+     "directMessage": 0,
      "follow": 0.001,
      "forYou": 0.992,
      "other": 0.001,
      "personalProfile": 0.005,
      "search": 0.001,
-     "sound": 0,
-     "directMessage": 0
+     "sound": 0
     },
     "audienceTypes": {
-     "newViewer": 0.6,
-     "nonFollower": 0.99,
-     "returnViewer": 0.4,
-     "follower": 0.01
+     "returnViewer": 0.38,
+     "follower": 0.01,
+     "newViewer": 0.62,
+     "nonFollower": 0.99
     },
     "audienceCountries": {
-     "BY": 0.269,
-     "US": 0.182,
-     "UA": 0.103,
+     "BY": 0.268,
+     "US": 0.18,
+     "UA": 0.104,
      "KZ": 0.082,
-     "DE": 0.053,
+     "DE": 0.055,
      "GB": 0.039,
      "NL": 0.036,
-     "PL": 0.034,
-     "LV": 0.017,
-     "BR": 0.015,
-     "other": 0.17
+     "PL": 0.033,
+     "LV": 0.018,
+     "BR": 0.016,
+     "other": 0.169
     },
     "retentionCurve": {},
     "replays": 0,
@@ -1131,8 +1755,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 4.38,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "engagementRate": 2.55,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -1143,47 +1767,47 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 617,
+      "reach": 1059,
       "likes": 25,
       "comments": 0,
       "shares": 2,
       "saves": 0,
       "clicks": 0,
-      "views": 1158,
+      "views": 1192,
       "follows": 0,
-      "igReelsAvgWatchTime": 12380,
-      "igReelsVideoViewTotalTime": 17602000,
+      "igReelsAvgWatchTime": 12310,
+      "igReelsVideoViewTotalTime": 18114000,
       "reelsSkipRate": 0,
-      "completionRate": 0.6828,
+      "completionRate": 0.6807,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+       "directMessage": 0,
        "follow": 0.001,
        "forYou": 0.992,
        "other": 0.001,
        "personalProfile": 0.005,
        "search": 0.001,
-       "sound": 0,
-       "directMessage": 0
+       "sound": 0
       },
       "audienceTypes": {
-       "newViewer": 0.6,
-       "nonFollower": 0.99,
-       "returnViewer": 0.4,
-       "follower": 0.01
+       "returnViewer": 0.38,
+       "follower": 0.01,
+       "newViewer": 0.62,
+       "nonFollower": 0.99
       },
       "audienceCountries": {
-       "BY": 0.269,
-       "US": 0.182,
-       "UA": 0.103,
+       "BY": 0.268,
+       "US": 0.18,
+       "UA": 0.104,
        "KZ": 0.082,
-       "DE": 0.053,
+       "DE": 0.055,
        "GB": 0.039,
        "NL": 0.036,
-       "PL": 0.034,
-       "LV": 0.017,
-       "BR": 0.015,
-       "other": 0.17
+       "PL": 0.033,
+       "LV": 0.018,
+       "BR": 0.016,
+       "other": 0.169
       },
       "retentionCurve": {},
       "replays": 0,
@@ -1192,8 +1816,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 4.38,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "engagementRate": 2.55,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7708374621048868148?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -1226,47 +1850,47 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 767,
-    "likes": 28,
+    "reach": 1284,
+    "likes": 31,
     "comments": 0,
     "shares": 2,
-    "saves": 1,
+    "saves": 2,
     "clicks": 0,
-    "views": 1355,
+    "views": 1404,
     "follows": 0,
-    "igReelsAvgWatchTime": 16490,
-    "igReelsVideoViewTotalTime": 28270000,
+    "igReelsAvgWatchTime": 16460,
+    "igReelsVideoViewTotalTime": 29323000,
     "reelsSkipRate": 0,
-    "completionRate": 0.4872,
+    "completionRate": 0.4879,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
-     "follow": 0,
-     "forYou": 0.995,
      "other": 0.001,
-     "personalProfile": 0.004,
+     "personalProfile": 0.003,
      "search": 0,
      "sound": 0,
-     "directMessage": 0
+     "directMessage": 0,
+     "follow": 0,
+     "forYou": 0.996
     },
     "audienceTypes": {
      "follower": 0,
-     "newViewer": 0.62,
+     "newViewer": 0.64,
      "nonFollower": 1,
-     "returnViewer": 0.38
+     "returnViewer": 0.36
     },
     "audienceCountries": {
-     "BY": 0.357,
+     "BY": 0.352,
      "US": 0.22,
-     "KZ": 0.078,
-     "UA": 0.06,
+     "KZ": 0.079,
+     "UA": 0.062,
      "NL": 0.035,
-     "DE": 0.034,
+     "DE": 0.033,
      "GB": 0.033,
      "PL": 0.021,
-     "BR": 0.014,
      "AE": 0.014,
-     "other": 0.134
+     "BR": 0.014,
+     "other": 0.137
     },
     "retentionCurve": {},
     "replays": 0,
@@ -1275,8 +1899,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 4.04,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "engagementRate": 2.73,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -1287,47 +1911,47 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 767,
-      "likes": 28,
+      "reach": 1284,
+      "likes": 31,
       "comments": 0,
       "shares": 2,
-      "saves": 1,
+      "saves": 2,
       "clicks": 0,
-      "views": 1355,
+      "views": 1404,
       "follows": 0,
-      "igReelsAvgWatchTime": 16490,
-      "igReelsVideoViewTotalTime": 28270000,
+      "igReelsAvgWatchTime": 16460,
+      "igReelsVideoViewTotalTime": 29323000,
       "reelsSkipRate": 0,
-      "completionRate": 0.4872,
+      "completionRate": 0.4879,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-       "follow": 0,
-       "forYou": 0.995,
        "other": 0.001,
-       "personalProfile": 0.004,
+       "personalProfile": 0.003,
        "search": 0,
        "sound": 0,
-       "directMessage": 0
+       "directMessage": 0,
+       "follow": 0,
+       "forYou": 0.996
       },
       "audienceTypes": {
        "follower": 0,
-       "newViewer": 0.62,
+       "newViewer": 0.64,
        "nonFollower": 1,
-       "returnViewer": 0.38
+       "returnViewer": 0.36
       },
       "audienceCountries": {
-       "BY": 0.357,
+       "BY": 0.352,
        "US": 0.22,
-       "KZ": 0.078,
-       "UA": 0.06,
+       "KZ": 0.079,
+       "UA": 0.062,
        "NL": 0.035,
-       "DE": 0.034,
+       "DE": 0.033,
        "GB": 0.033,
        "PL": 0.021,
-       "BR": 0.014,
        "AE": 0.014,
-       "other": 0.134
+       "BR": 0.014,
+       "other": 0.137
       },
       "retentionCurve": {},
       "replays": 0,
@@ -1336,8 +1960,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 4.04,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "engagementRate": 2.73,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7708374096949579014?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -1370,7 +1994,7 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 318,
+    "reach": 323,
     "likes": 8,
     "comments": 0,
     "shares": 0,
@@ -1378,20 +2002,20 @@
     "clicks": 0,
     "views": 324,
     "follows": 0,
-    "igReelsAvgWatchTime": 11550,
-    "igReelsVideoViewTotalTime": 4619000,
+    "igReelsAvgWatchTime": 11520,
+    "igReelsVideoViewTotalTime": 4620000,
     "reelsSkipRate": 0,
-    "completionRate": 0.54,
+    "completionRate": 0.5387,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
-     "follow": 0.005,
-     "forYou": 0.957,
-     "other": 0,
-     "personalProfile": 0.013,
+     "personalProfile": 0.012,
      "search": 0.025,
      "sound": 0,
-     "directMessage": 0
+     "directMessage": 0,
+     "follow": 0.005,
+     "forYou": 0.958,
+     "other": 0
     },
     "audienceTypes": {
      "nonFollower": 0.97,
@@ -1403,14 +2027,14 @@
      "US": 0.269,
      "BY": 0.137,
      "KZ": 0.092,
-     "UA": 0.081,
+     "UA": 0.083,
      "DE": 0.065,
      "NL": 0.047,
      "GB": 0.036,
      "SE": 0.029,
-     "BR": 0.023,
+     "BR": 0.022,
      "PL": 0.018,
-     "other": 0.203
+     "other": 0.202
     },
     "retentionCurve": {},
     "replays": 0,
@@ -1419,8 +2043,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 2.52,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "engagementRate": 2.48,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -1431,7 +2055,7 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 318,
+      "reach": 323,
       "likes": 8,
       "comments": 0,
       "shares": 0,
@@ -1439,20 +2063,20 @@
       "clicks": 0,
       "views": 324,
       "follows": 0,
-      "igReelsAvgWatchTime": 11550,
-      "igReelsVideoViewTotalTime": 4619000,
+      "igReelsAvgWatchTime": 11520,
+      "igReelsVideoViewTotalTime": 4620000,
       "reelsSkipRate": 0,
-      "completionRate": 0.54,
+      "completionRate": 0.5387,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-       "follow": 0.005,
-       "forYou": 0.957,
-       "other": 0,
-       "personalProfile": 0.013,
+       "personalProfile": 0.012,
        "search": 0.025,
        "sound": 0,
-       "directMessage": 0
+       "directMessage": 0,
+       "follow": 0.005,
+       "forYou": 0.958,
+       "other": 0
       },
       "audienceTypes": {
        "nonFollower": 0.97,
@@ -1464,14 +2088,14 @@
        "US": 0.269,
        "BY": 0.137,
        "KZ": 0.092,
-       "UA": 0.081,
+       "UA": 0.083,
        "DE": 0.065,
        "NL": 0.047,
        "GB": 0.036,
        "SE": 0.029,
-       "BR": 0.023,
+       "BR": 0.022,
        "PL": 0.018,
-       "other": 0.203
+       "other": 0.202
       },
       "retentionCurve": {},
       "replays": 0,
@@ -1480,8 +2104,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 2.52,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "engagementRate": 2.48,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7707725921502973204?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -1514,47 +2138,47 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 240,
+    "reach": 244,
     "likes": 9,
     "comments": 0,
     "shares": 1,
     "saves": 0,
     "clicks": 0,
-    "views": 244,
+    "views": 245,
     "follows": 0,
-    "igReelsAvgWatchTime": 9050,
-    "igReelsVideoViewTotalTime": 2913000,
+    "igReelsAvgWatchTime": 9020,
+    "igReelsVideoViewTotalTime": 2914000,
     "reelsSkipRate": 0,
-    "completionRate": 0.4938,
+    "completionRate": 0.4923,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
+     "personalProfile": 0.019,
+     "search": 0,
+     "sound": 0,
      "directMessage": 0,
      "follow": 0.006,
      "forYou": 0.972,
-     "other": 0.003,
-     "personalProfile": 0.019,
-     "search": 0,
-     "sound": 0
+     "other": 0.003
     },
     "audienceTypes": {
+     "nonFollower": 0.95,
      "returnViewer": 0.54,
      "follower": 0.05,
-     "newViewer": 0.46,
-     "nonFollower": 0.95
+     "newViewer": 0.46
     },
     "audienceCountries": {
-     "KZ": 0.485,
+     "KZ": 0.487,
      "US": 0.118,
      "BY": 0.074,
      "UA": 0.053,
      "JP": 0.029,
-     "DE": 0.027,
+     "DE": 0.026,
      "GB": 0.021,
-     "PL": 0.018,
      "EE": 0.018,
+     "PL": 0.018,
      "SE": 0.015,
-     "other": 0.142
+     "other": 0.141
     },
     "retentionCurve": {},
     "replays": 0,
@@ -1563,8 +2187,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 4.17,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "engagementRate": 4.1,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -1575,47 +2199,47 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 240,
+      "reach": 244,
       "likes": 9,
       "comments": 0,
       "shares": 1,
       "saves": 0,
       "clicks": 0,
-      "views": 244,
+      "views": 245,
       "follows": 0,
-      "igReelsAvgWatchTime": 9050,
-      "igReelsVideoViewTotalTime": 2913000,
+      "igReelsAvgWatchTime": 9020,
+      "igReelsVideoViewTotalTime": 2914000,
       "reelsSkipRate": 0,
-      "completionRate": 0.4938,
+      "completionRate": 0.4923,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+       "personalProfile": 0.019,
+       "search": 0,
+       "sound": 0,
        "directMessage": 0,
        "follow": 0.006,
        "forYou": 0.972,
-       "other": 0.003,
-       "personalProfile": 0.019,
-       "search": 0,
-       "sound": 0
+       "other": 0.003
       },
       "audienceTypes": {
+       "nonFollower": 0.95,
        "returnViewer": 0.54,
        "follower": 0.05,
-       "newViewer": 0.46,
-       "nonFollower": 0.95
+       "newViewer": 0.46
       },
       "audienceCountries": {
-       "KZ": 0.485,
+       "KZ": 0.487,
        "US": 0.118,
        "BY": 0.074,
        "UA": 0.053,
        "JP": 0.029,
-       "DE": 0.027,
+       "DE": 0.026,
        "GB": 0.021,
-       "PL": 0.018,
        "EE": 0.018,
+       "PL": 0.018,
        "SE": 0.015,
-       "other": 0.142
+       "other": 0.141
       },
       "retentionCurve": {},
       "replays": 0,
@@ -1624,8 +2248,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 4.17,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "engagementRate": 4.1,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7707725419394698517?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -1673,19 +2297,19 @@
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
+     "follow": 0.009,
      "forYou": 0.934,
      "other": 0,
      "personalProfile": 0.057,
      "search": 0,
      "sound": 0,
-     "directMessage": 0,
-     "follow": 0.009
+     "directMessage": 0
     },
     "audienceTypes": {
      "follower": 0.02,
-     "newViewer": 0.7,
+     "newViewer": 0.69,
      "nonFollower": 0.98,
-     "returnViewer": 0.3
+     "returnViewer": 0.31
     },
     "audienceCountries": {},
     "retentionCurve": {},
@@ -1696,7 +2320,7 @@
     "totalComments": null,
     "videoDurationSeconds": 0,
     "engagementRate": 4.21,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -1722,19 +2346,19 @@
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+       "follow": 0.009,
        "forYou": 0.934,
        "other": 0,
        "personalProfile": 0.057,
        "search": 0,
        "sound": 0,
-       "directMessage": 0,
-       "follow": 0.009
+       "directMessage": 0
       },
       "audienceTypes": {
        "follower": 0.02,
-       "newViewer": 0.7,
+       "newViewer": 0.69,
        "nonFollower": 0.98,
-       "returnViewer": 0.3
+       "returnViewer": 0.31
       },
       "audienceCountries": {},
       "retentionCurve": {},
@@ -1745,7 +2369,7 @@
       "totalComments": null,
       "videoDurationSeconds": 0,
       "engagementRate": 4.21,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7707724889410522389?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -1778,7 +2402,7 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 417,
+    "reach": 419,
     "likes": 11,
     "comments": 0,
     "shares": 0,
@@ -1793,19 +2417,19 @@
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
-     "other": 0,
      "personalProfile": 0.013,
      "search": 0.009,
      "sound": 0,
      "directMessage": 0,
      "follow": 0.004,
-     "forYou": 0.974
+     "forYou": 0.974,
+     "other": 0
     },
     "audienceTypes": {
-     "follower": 0.02,
-     "newViewer": 0.73,
      "nonFollower": 0.98,
-     "returnViewer": 0.27
+     "returnViewer": 0.27,
+     "follower": 0.02,
+     "newViewer": 0.73
     },
     "audienceCountries": {
      "BY": 0.455,
@@ -1827,8 +2451,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 2.64,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "engagementRate": 2.63,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -1839,7 +2463,7 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 417,
+      "reach": 419,
       "likes": 11,
       "comments": 0,
       "shares": 0,
@@ -1854,19 +2478,19 @@
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-       "other": 0,
        "personalProfile": 0.013,
        "search": 0.009,
        "sound": 0,
        "directMessage": 0,
        "follow": 0.004,
-       "forYou": 0.974
+       "forYou": 0.974,
+       "other": 0
       },
       "audienceTypes": {
-       "follower": 0.02,
-       "newViewer": 0.73,
        "nonFollower": 0.98,
-       "returnViewer": 0.27
+       "returnViewer": 0.27,
+       "follower": 0.02,
+       "newViewer": 0.73
       },
       "audienceCountries": {
        "BY": 0.455,
@@ -1888,8 +2512,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 2.64,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "engagementRate": 2.63,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7707724386962312469?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -1922,7 +2546,7 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 106,
+    "reach": 108,
     "likes": 2,
     "comments": 0,
     "shares": 0,
@@ -1937,19 +2561,19 @@
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
+     "directMessage": 0,
      "follow": 0.022,
      "forYou": 0.949,
      "other": 0,
      "personalProfile": 0.029,
      "search": 0,
-     "sound": 0,
-     "directMessage": 0
+     "sound": 0
     },
     "audienceTypes": {
-     "newViewer": 0.45,
+     "follower": 0.05,
+     "newViewer": 0.44,
      "nonFollower": 0.95,
-     "returnViewer": 0.55,
-     "follower": 0.05
+     "returnViewer": 0.56
     },
     "audienceCountries": {
      "BY": 0.35,
@@ -1959,9 +2583,9 @@
      "NL": 0.036,
      "DE": 0.029,
      "FI": 0.022,
+     "SK": 0.022,
      "PL": 0.022,
      "SE": 0.022,
-     "SK": 0.022,
      "other": 0.101
     },
     "retentionCurve": {},
@@ -1971,8 +2595,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 1.89,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "engagementRate": 1.85,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -1983,7 +2607,7 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 106,
+      "reach": 108,
       "likes": 2,
       "comments": 0,
       "shares": 0,
@@ -1998,19 +2622,19 @@
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+       "directMessage": 0,
        "follow": 0.022,
        "forYou": 0.949,
        "other": 0,
        "personalProfile": 0.029,
        "search": 0,
-       "sound": 0,
-       "directMessage": 0
+       "sound": 0
       },
       "audienceTypes": {
-       "newViewer": 0.45,
+       "follower": 0.05,
+       "newViewer": 0.44,
        "nonFollower": 0.95,
-       "returnViewer": 0.55,
-       "follower": 0.05
+       "returnViewer": 0.56
       },
       "audienceCountries": {
        "BY": 0.35,
@@ -2020,9 +2644,9 @@
        "NL": 0.036,
        "DE": 0.029,
        "FI": 0.022,
+       "SK": 0.022,
        "PL": 0.022,
        "SE": 0.022,
-       "SK": 0.022,
        "other": 0.101
       },
       "retentionCurve": {},
@@ -2032,8 +2656,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 1.89,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "engagementRate": 1.85,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7707723344849833237?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -2066,7 +2690,7 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 32,
+    "reach": 33,
     "likes": 2,
     "comments": 0,
     "shares": 1,
@@ -2081,19 +2705,19 @@
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
+     "forYou": 0.819,
+     "other": 0,
+     "personalProfile": 0.136,
      "search": 0,
      "sound": 0,
      "directMessage": 0,
-     "follow": 0.045,
-     "forYou": 0.819,
-     "other": 0,
-     "personalProfile": 0.136
+     "follow": 0.045
     },
     "audienceTypes": {
-     "returnViewer": 0.66,
+     "nonFollower": 0.82,
+     "returnViewer": 0.67,
      "follower": 0.18,
-     "newViewer": 0.34,
-     "nonFollower": 0.82
+     "newViewer": 0.33
     },
     "audienceCountries": {},
     "retentionCurve": {},
@@ -2103,8 +2727,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 12.5,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "engagementRate": 12.12,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -2115,7 +2739,7 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 32,
+      "reach": 33,
       "likes": 2,
       "comments": 0,
       "shares": 1,
@@ -2130,19 +2754,19 @@
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+       "forYou": 0.819,
+       "other": 0,
+       "personalProfile": 0.136,
        "search": 0,
        "sound": 0,
        "directMessage": 0,
-       "follow": 0.045,
-       "forYou": 0.819,
-       "other": 0,
-       "personalProfile": 0.136
+       "follow": 0.045
       },
       "audienceTypes": {
-       "returnViewer": 0.66,
+       "nonFollower": 0.82,
+       "returnViewer": 0.67,
        "follower": 0.18,
-       "newViewer": 0.34,
-       "nonFollower": 0.82
+       "newViewer": 0.33
       },
       "audienceCountries": {},
       "retentionCurve": {},
@@ -2152,8 +2776,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 12.5,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "engagementRate": 12.12,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7707709483492871430?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -2186,7 +2810,7 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 61,
+    "reach": 63,
     "likes": 3,
     "comments": 0,
     "shares": 0,
@@ -2194,26 +2818,26 @@
     "clicks": 0,
     "views": 63,
     "follows": 0,
-    "igReelsAvgWatchTime": 7070,
-    "igReelsVideoViewTotalTime": 509000,
+    "igReelsAvgWatchTime": 6990,
+    "igReelsVideoViewTotalTime": 510000,
     "reelsSkipRate": 0,
-    "completionRate": 0.2639,
+    "completionRate": 0.2603,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
+     "follow": 0.027,
+     "forYou": 0.877,
+     "other": 0,
+     "personalProfile": 0.096,
      "search": 0,
      "sound": 0,
-     "directMessage": 0,
-     "follow": 0.028,
-     "forYou": 0.889,
-     "other": 0,
-     "personalProfile": 0.083
+     "directMessage": 0
     },
     "audienceTypes": {
-     "nonFollower": 0.9,
-     "returnViewer": 0.58,
      "follower": 0.1,
-     "newViewer": 0.42
+     "newViewer": 0.41,
+     "nonFollower": 0.9,
+     "returnViewer": 0.59
     },
     "audienceCountries": {},
     "retentionCurve": {},
@@ -2223,8 +2847,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 4.92,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "engagementRate": 4.76,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -2235,7 +2859,7 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 61,
+      "reach": 63,
       "likes": 3,
       "comments": 0,
       "shares": 0,
@@ -2243,26 +2867,26 @@
       "clicks": 0,
       "views": 63,
       "follows": 0,
-      "igReelsAvgWatchTime": 7070,
-      "igReelsVideoViewTotalTime": 509000,
+      "igReelsAvgWatchTime": 6990,
+      "igReelsVideoViewTotalTime": 510000,
       "reelsSkipRate": 0,
-      "completionRate": 0.2639,
+      "completionRate": 0.2603,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+       "follow": 0.027,
+       "forYou": 0.877,
+       "other": 0,
+       "personalProfile": 0.096,
        "search": 0,
        "sound": 0,
-       "directMessage": 0,
-       "follow": 0.028,
-       "forYou": 0.889,
-       "other": 0,
-       "personalProfile": 0.083
+       "directMessage": 0
       },
       "audienceTypes": {
-       "nonFollower": 0.9,
-       "returnViewer": 0.58,
        "follower": 0.1,
-       "newViewer": 0.42
+       "newViewer": 0.41,
+       "nonFollower": 0.9,
+       "returnViewer": 0.59
       },
       "audienceCountries": {},
       "retentionCurve": {},
@@ -2272,8 +2896,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 4.92,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "engagementRate": 4.76,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7707683125991591188?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -2306,7 +2930,7 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 77,
+    "reach": 78,
     "likes": 0,
     "comments": 0,
     "shares": 0,
@@ -2321,19 +2945,19 @@
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
+     "directMessage": 0,
+     "follow": 0.022,
+     "forYou": 0.924,
      "other": 0,
      "personalProfile": 0.054,
      "search": 0,
-     "sound": 0,
-     "directMessage": 0,
-     "follow": 0.022,
-     "forYou": 0.924
+     "sound": 0
     },
     "audienceTypes": {
-     "follower": 0.08,
-     "newViewer": 0.61,
+     "newViewer": 0.6,
      "nonFollower": 0.92,
-     "returnViewer": 0.39
+     "returnViewer": 0.4,
+     "follower": 0.08
     },
     "audienceCountries": {},
     "retentionCurve": {},
@@ -2344,7 +2968,7 @@
     "totalComments": null,
     "videoDurationSeconds": 0,
     "engagementRate": 0,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -2355,7 +2979,7 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 77,
+      "reach": 78,
       "likes": 0,
       "comments": 0,
       "shares": 0,
@@ -2370,19 +2994,19 @@
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+       "directMessage": 0,
+       "follow": 0.022,
+       "forYou": 0.924,
        "other": 0,
        "personalProfile": 0.054,
        "search": 0,
-       "sound": 0,
-       "directMessage": 0,
-       "follow": 0.022,
-       "forYou": 0.924
+       "sound": 0
       },
       "audienceTypes": {
-       "follower": 0.08,
-       "newViewer": 0.61,
+       "newViewer": 0.6,
        "nonFollower": 0.92,
-       "returnViewer": 0.39
+       "returnViewer": 0.4,
+       "follower": 0.08
       },
       "audienceCountries": {},
       "retentionCurve": {},
@@ -2393,7 +3017,7 @@
       "totalComments": null,
       "videoDurationSeconds": 0,
       "engagementRate": 0,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7707682861268192532?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -2441,19 +3065,19 @@
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
+     "forYou": 0.83,
+     "other": 0,
      "personalProfile": 0.102,
      "search": 0.051,
      "sound": 0,
      "directMessage": 0,
-     "follow": 0.017,
-     "forYou": 0.83,
-     "other": 0
+     "follow": 0.017
     },
     "audienceTypes": {
-     "returnViewer": 0.56,
+     "nonFollower": 0.86,
+     "returnViewer": 0.57,
      "follower": 0.14,
-     "newViewer": 0.44,
-     "nonFollower": 0.86
+     "newViewer": 0.43
     },
     "audienceCountries": {},
     "retentionCurve": {},
@@ -2464,7 +3088,7 @@
     "totalComments": null,
     "videoDurationSeconds": 0,
     "engagementRate": 1.79,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -2490,19 +3114,19 @@
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+       "forYou": 0.83,
+       "other": 0,
        "personalProfile": 0.102,
        "search": 0.051,
        "sound": 0,
        "directMessage": 0,
-       "follow": 0.017,
-       "forYou": 0.83,
-       "other": 0
+       "follow": 0.017
       },
       "audienceTypes": {
-       "returnViewer": 0.56,
+       "nonFollower": 0.86,
+       "returnViewer": 0.57,
        "follower": 0.14,
-       "newViewer": 0.44,
-       "nonFollower": 0.86
+       "newViewer": 0.43
       },
       "audienceCountries": {},
       "retentionCurve": {},
@@ -2513,7 +3137,7 @@
       "totalComments": null,
       "videoDurationSeconds": 0,
       "engagementRate": 1.79,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7707682300896496902?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -2546,7 +3170,7 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 369,
+    "reach": 371,
     "likes": 10,
     "comments": 0,
     "shares": 1,
@@ -2561,13 +3185,13 @@
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
+     "forYou": 0.986,
+     "other": 0,
+     "personalProfile": 0.008,
      "search": 0,
      "sound": 0,
      "directMessage": 0,
-     "follow": 0.006,
-     "forYou": 0.986,
-     "other": 0,
-     "personalProfile": 0.008
+     "follow": 0.006
     },
     "audienceTypes": {
      "follower": 0.03,
@@ -2595,8 +3219,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 2.98,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "engagementRate": 2.96,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -2607,7 +3231,7 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 369,
+      "reach": 371,
       "likes": 10,
       "comments": 0,
       "shares": 1,
@@ -2622,13 +3246,13 @@
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+       "forYou": 0.986,
+       "other": 0,
+       "personalProfile": 0.008,
        "search": 0,
        "sound": 0,
        "directMessage": 0,
-       "follow": 0.006,
-       "forYou": 0.986,
-       "other": 0,
-       "personalProfile": 0.008
+       "follow": 0.006
       },
       "audienceTypes": {
        "follower": 0.03,
@@ -2656,8 +3280,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 2.98,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "engagementRate": 2.96,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7707681762851376436?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -2690,7 +3314,7 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 720,
+    "reach": 723,
     "likes": 30,
     "comments": 0,
     "shares": 2,
@@ -2705,13 +3329,13 @@
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
+     "directMessage": 0,
+     "follow": 0.006,
+     "forYou": 0.98,
      "other": 0.003,
      "personalProfile": 0.011,
      "search": 0,
-     "sound": 0,
-     "directMessage": 0,
-     "follow": 0.006,
-     "forYou": 0.98
+     "sound": 0
     },
     "audienceTypes": {
      "follower": 0.02,
@@ -2739,8 +3363,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 4.58,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "engagementRate": 4.56,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -2751,7 +3375,7 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 720,
+      "reach": 723,
       "likes": 30,
       "comments": 0,
       "shares": 2,
@@ -2766,13 +3390,13 @@
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+       "directMessage": 0,
+       "follow": 0.006,
+       "forYou": 0.98,
        "other": 0.003,
        "personalProfile": 0.011,
        "search": 0,
-       "sound": 0,
-       "directMessage": 0,
-       "follow": 0.006,
-       "forYou": 0.98
+       "sound": 0
       },
       "audienceTypes": {
        "follower": 0.02,
@@ -2800,8 +3424,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 4.58,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "engagementRate": 4.56,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7707563763460787477?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -2834,38 +3458,38 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 311,
+    "reach": 314,
     "likes": 6,
     "comments": 0,
     "shares": 3,
     "saves": 0,
     "clicks": 0,
-    "views": 317,
+    "views": 318,
     "follows": 0,
-    "igReelsAvgWatchTime": 6440,
+    "igReelsAvgWatchTime": 6420,
     "igReelsVideoViewTotalTime": 2323000,
     "reelsSkipRate": 0,
-    "completionRate": 0.3213,
+    "completionRate": 0.3204,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
+     "personalProfile": 0.047,
+     "search": 0.017,
+     "sound": 0,
      "directMessage": 0,
      "follow": 0.008,
-     "forYou": 0.92,
-     "other": 0.011,
-     "personalProfile": 0.044,
-     "search": 0.017,
-     "sound": 0
+     "forYou": 0.917,
+     "other": 0.011
     },
     "audienceTypes": {
+     "nonFollower": 0.96,
      "returnViewer": 0.46,
      "follower": 0.04,
-     "newViewer": 0.54,
-     "nonFollower": 0.96
+     "newViewer": 0.54
     },
     "audienceCountries": {
      "BY": 0.203,
-     "US": 0.153,
+     "US": 0.155,
      "KZ": 0.098,
      "UA": 0.08,
      "DE": 0.057,
@@ -2874,7 +3498,7 @@
      "NL": 0.041,
      "GB": 0.041,
      "LV": 0.027,
-     "other": 0.211
+     "other": 0.209
     },
     "retentionCurve": {},
     "replays": 0,
@@ -2883,8 +3507,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 2.89,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "engagementRate": 2.87,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -2895,38 +3519,38 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 311,
+      "reach": 314,
       "likes": 6,
       "comments": 0,
       "shares": 3,
       "saves": 0,
       "clicks": 0,
-      "views": 317,
+      "views": 318,
       "follows": 0,
-      "igReelsAvgWatchTime": 6440,
+      "igReelsAvgWatchTime": 6420,
       "igReelsVideoViewTotalTime": 2323000,
       "reelsSkipRate": 0,
-      "completionRate": 0.3213,
+      "completionRate": 0.3204,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+       "personalProfile": 0.047,
+       "search": 0.017,
+       "sound": 0,
        "directMessage": 0,
        "follow": 0.008,
-       "forYou": 0.92,
-       "other": 0.011,
-       "personalProfile": 0.044,
-       "search": 0.017,
-       "sound": 0
+       "forYou": 0.917,
+       "other": 0.011
       },
       "audienceTypes": {
+       "nonFollower": 0.96,
        "returnViewer": 0.46,
        "follower": 0.04,
-       "newViewer": 0.54,
-       "nonFollower": 0.96
+       "newViewer": 0.54
       },
       "audienceCountries": {
        "BY": 0.203,
-       "US": 0.153,
+       "US": 0.155,
        "KZ": 0.098,
        "UA": 0.08,
        "DE": 0.057,
@@ -2935,7 +3559,7 @@
        "NL": 0.041,
        "GB": 0.041,
        "LV": 0.027,
-       "other": 0.211
+       "other": 0.209
       },
       "retentionCurve": {},
       "replays": 0,
@@ -2944,8 +3568,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 2.89,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "engagementRate": 2.87,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7707564203015441670?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -2978,7 +3602,7 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 357,
+    "reach": 358,
     "likes": 14,
     "comments": 1,
     "shares": 0,
@@ -2986,39 +3610,39 @@
     "clicks": 0,
     "views": 359,
     "follows": 0,
-    "igReelsAvgWatchTime": 11860,
-    "igReelsVideoViewTotalTime": 5135000,
+    "igReelsAvgWatchTime": 11840,
+    "igReelsVideoViewTotalTime": 5139000,
     "reelsSkipRate": 0,
-    "completionRate": 0.3857,
+    "completionRate": 0.3848,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
+     "other": 0.005,
      "personalProfile": 0.018,
      "search": 0,
      "sound": 0,
      "directMessage": 0,
      "follow": 0.009,
-     "forYou": 0.968,
-     "other": 0.005
+     "forYou": 0.968
     },
     "audienceTypes": {
-     "returnViewer": 0.43,
-     "follower": 0.04,
      "newViewer": 0.57,
-     "nonFollower": 0.96
+     "nonFollower": 0.96,
+     "returnViewer": 0.43,
+     "follower": 0.04
     },
     "audienceCountries": {
      "BY": 0.242,
-     "US": 0.171,
+     "US": 0.173,
      "UA": 0.081,
      "KZ": 0.073,
      "DE": 0.064,
-     "GB": 0.039,
+     "GB": 0.038,
      "PL": 0.03,
      "NL": 0.028,
      "SK": 0.024,
      "EE": 0.021,
-     "other": 0.227
+     "other": 0.226
     },
     "retentionCurve": {},
     "replays": 0,
@@ -3027,8 +3651,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 4.48,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "engagementRate": 4.47,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -3039,7 +3663,7 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 357,
+      "reach": 358,
       "likes": 14,
       "comments": 1,
       "shares": 0,
@@ -3047,39 +3671,39 @@
       "clicks": 0,
       "views": 359,
       "follows": 0,
-      "igReelsAvgWatchTime": 11860,
-      "igReelsVideoViewTotalTime": 5135000,
+      "igReelsAvgWatchTime": 11840,
+      "igReelsVideoViewTotalTime": 5139000,
       "reelsSkipRate": 0,
-      "completionRate": 0.3857,
+      "completionRate": 0.3848,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+       "other": 0.005,
        "personalProfile": 0.018,
        "search": 0,
        "sound": 0,
        "directMessage": 0,
        "follow": 0.009,
-       "forYou": 0.968,
-       "other": 0.005
+       "forYou": 0.968
       },
       "audienceTypes": {
-       "returnViewer": 0.43,
-       "follower": 0.04,
        "newViewer": 0.57,
-       "nonFollower": 0.96
+       "nonFollower": 0.96,
+       "returnViewer": 0.43,
+       "follower": 0.04
       },
       "audienceCountries": {
        "BY": 0.242,
-       "US": 0.171,
+       "US": 0.173,
        "UA": 0.081,
        "KZ": 0.073,
        "DE": 0.064,
-       "GB": 0.039,
+       "GB": 0.038,
        "PL": 0.03,
        "NL": 0.028,
        "SK": 0.024,
        "EE": 0.021,
-       "other": 0.227
+       "other": 0.226
       },
       "retentionCurve": {},
       "replays": 0,
@@ -3088,8 +3712,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 4.48,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "engagementRate": 4.47,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7707563230066904340?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -3122,7 +3746,7 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 360,
+    "reach": 388,
     "likes": 5,
     "comments": 1,
     "shares": 1,
@@ -3137,19 +3761,19 @@
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
+     "follow": 0.021,
+     "forYou": 0.959,
+     "other": 0,
      "personalProfile": 0.018,
      "search": 0.002,
      "sound": 0,
-     "directMessage": 0,
-     "follow": 0.021,
-     "forYou": 0.959,
-     "other": 0
+     "directMessage": 0
     },
     "audienceTypes": {
-     "returnViewer": 0.4,
      "follower": 0.03,
-     "newViewer": 0.6,
-     "nonFollower": 0.97
+     "newViewer": 0.57,
+     "nonFollower": 0.97,
+     "returnViewer": 0.43
     },
     "audienceCountries": {
      "BY": 0.181,
@@ -3171,8 +3795,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 2.22,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "engagementRate": 2.06,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -3183,7 +3807,7 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 360,
+      "reach": 388,
       "likes": 5,
       "comments": 1,
       "shares": 1,
@@ -3198,19 +3822,19 @@
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+       "follow": 0.021,
+       "forYou": 0.959,
+       "other": 0,
        "personalProfile": 0.018,
        "search": 0.002,
        "sound": 0,
-       "directMessage": 0,
-       "follow": 0.021,
-       "forYou": 0.959,
-       "other": 0
+       "directMessage": 0
       },
       "audienceTypes": {
-       "returnViewer": 0.4,
        "follower": 0.03,
-       "newViewer": 0.6,
-       "nonFollower": 0.97
+       "newViewer": 0.57,
+       "nonFollower": 0.97,
+       "returnViewer": 0.43
       },
       "audienceCountries": {
        "BY": 0.181,
@@ -3232,8 +3856,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 2.22,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "engagementRate": 2.06,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7707562816592448788?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -3266,7 +3890,7 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 220,
+    "reach": 221,
     "likes": 2,
     "comments": 0,
     "shares": 0,
@@ -3281,19 +3905,19 @@
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
-     "follow": 0.004,
      "forYou": 0.965,
      "other": 0,
      "personalProfile": 0.031,
      "search": 0,
      "sound": 0,
-     "directMessage": 0
+     "directMessage": 0,
+     "follow": 0.004
     },
     "audienceTypes": {
+     "returnViewer": 0.26,
      "follower": 0.03,
      "newViewer": 0.74,
-     "nonFollower": 0.97,
-     "returnViewer": 0.26
+     "nonFollower": 0.97
     },
     "audienceCountries": {
      "BY": 0.248,
@@ -3303,8 +3927,8 @@
      "DE": 0.042,
      "UA": 0.042,
      "LT": 0.035,
-     "PL": 0.032,
      "SK": 0.032,
+     "PL": 0.032,
      "LV": 0.025,
      "other": 0.212
     },
@@ -3315,8 +3939,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 0.91,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "engagementRate": 0.9,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -3327,7 +3951,7 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 220,
+      "reach": 221,
       "likes": 2,
       "comments": 0,
       "shares": 0,
@@ -3342,19 +3966,19 @@
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-       "follow": 0.004,
        "forYou": 0.965,
        "other": 0,
        "personalProfile": 0.031,
        "search": 0,
        "sound": 0,
-       "directMessage": 0
+       "directMessage": 0,
+       "follow": 0.004
       },
       "audienceTypes": {
+       "returnViewer": 0.26,
        "follower": 0.03,
        "newViewer": 0.74,
-       "nonFollower": 0.97,
-       "returnViewer": 0.26
+       "nonFollower": 0.97
       },
       "audienceCountries": {
        "BY": 0.248,
@@ -3364,8 +3988,8 @@
        "DE": 0.042,
        "UA": 0.042,
        "LT": 0.035,
-       "PL": 0.032,
        "SK": 0.032,
+       "PL": 0.032,
        "LV": 0.025,
        "other": 0.212
       },
@@ -3376,8 +4000,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 0.91,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "engagementRate": 0.9,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7707562372789046548?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -3410,47 +4034,47 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 798,
-    "likes": 12,
+    "reach": 812,
+    "likes": 13,
     "comments": 0,
     "shares": 0,
     "saves": 0,
     "clicks": 0,
-    "views": 862,
+    "views": 927,
     "follows": 2,
-    "igReelsAvgWatchTime": 13750,
-    "igReelsVideoViewTotalTime": 14340000,
+    "igReelsAvgWatchTime": 13490,
+    "igReelsVideoViewTotalTime": 15272000,
     "reelsSkipRate": 0,
-    "completionRate": 0.581,
+    "completionRate": 0.568,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
-     "search": 0.002,
      "sound": 0,
      "directMessage": 0,
      "follow": 0.003,
-     "forYou": 0.979,
+     "forYou": 0.98,
      "other": 0.004,
-     "personalProfile": 0.012
+     "personalProfile": 0.011,
+     "search": 0.002
     },
     "audienceTypes": {
      "follower": 0.02,
-     "newViewer": 0.61,
+     "newViewer": 0.6,
      "nonFollower": 0.98,
-     "returnViewer": 0.39
+     "returnViewer": 0.4
     },
     "audienceCountries": {
-     "BY": 0.26,
-     "US": 0.201,
-     "KZ": 0.101,
-     "UA": 0.082,
-     "DE": 0.05,
-     "GB": 0.043,
-     "NL": 0.031,
-     "PL": 0.031,
-     "LV": 0.021,
+     "BY": 0.268,
+     "US": 0.199,
+     "KZ": 0.105,
+     "UA": 0.087,
+     "DE": 0.047,
+     "GB": 0.039,
+     "NL": 0.029,
+     "PL": 0.028,
+     "LV": 0.019,
      "FI": 0.014,
-     "other": 0.166
+     "other": 0.165
     },
     "retentionCurve": {},
     "replays": 0,
@@ -3459,8 +4083,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 1.5,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "engagementRate": 1.6,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -3471,47 +4095,47 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 798,
-      "likes": 12,
+      "reach": 812,
+      "likes": 13,
       "comments": 0,
       "shares": 0,
       "saves": 0,
       "clicks": 0,
-      "views": 862,
+      "views": 927,
       "follows": 2,
-      "igReelsAvgWatchTime": 13750,
-      "igReelsVideoViewTotalTime": 14340000,
+      "igReelsAvgWatchTime": 13490,
+      "igReelsVideoViewTotalTime": 15272000,
       "reelsSkipRate": 0,
-      "completionRate": 0.581,
+      "completionRate": 0.568,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-       "search": 0.002,
        "sound": 0,
        "directMessage": 0,
        "follow": 0.003,
-       "forYou": 0.979,
+       "forYou": 0.98,
        "other": 0.004,
-       "personalProfile": 0.012
+       "personalProfile": 0.011,
+       "search": 0.002
       },
       "audienceTypes": {
        "follower": 0.02,
-       "newViewer": 0.61,
+       "newViewer": 0.6,
        "nonFollower": 0.98,
-       "returnViewer": 0.39
+       "returnViewer": 0.4
       },
       "audienceCountries": {
-       "BY": 0.26,
-       "US": 0.201,
-       "KZ": 0.101,
-       "UA": 0.082,
-       "DE": 0.05,
-       "GB": 0.043,
-       "NL": 0.031,
-       "PL": 0.031,
-       "LV": 0.021,
+       "BY": 0.268,
+       "US": 0.199,
+       "KZ": 0.105,
+       "UA": 0.087,
+       "DE": 0.047,
+       "GB": 0.039,
+       "NL": 0.029,
+       "PL": 0.028,
+       "LV": 0.019,
        "FI": 0.014,
-       "other": 0.166
+       "other": 0.165
       },
       "retentionCurve": {},
       "replays": 0,
@@ -3520,8 +4144,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 1.5,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "engagementRate": 1.6,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7707375559394872596?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -3554,37 +4178,37 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 703,
+    "reach": 708,
     "likes": 6,
     "comments": 0,
     "shares": 0,
     "saves": 0,
     "clicks": 0,
-    "views": 714,
+    "views": 716,
     "follows": 0,
-    "igReelsAvgWatchTime": 9720,
-    "igReelsVideoViewTotalTime": 8569000,
+    "igReelsAvgWatchTime": 9710,
+    "igReelsVideoViewTotalTime": 8594000,
     "reelsSkipRate": 0,
-    "completionRate": 0.6417,
+    "completionRate": 0.6429,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
-     "other": 0.002,
-     "personalProfile": 0.008,
      "search": 0.003,
      "sound": 0,
      "directMessage": 0,
      "follow": 0.001,
-     "forYou": 0.986
+     "forYou": 0.986,
+     "other": 0.002,
+     "personalProfile": 0.008
     },
     "audienceTypes": {
-     "follower": 0.02,
-     "newViewer": 0.48,
      "nonFollower": 0.98,
-     "returnViewer": 0.52
+     "returnViewer": 0.52,
+     "follower": 0.02,
+     "newViewer": 0.48
     },
     "audienceCountries": {
-     "BY": 0.224,
+     "BY": 0.226,
      "US": 0.208,
      "KZ": 0.102,
      "UA": 0.07,
@@ -3592,9 +4216,9 @@
      "NL": 0.04,
      "PL": 0.032,
      "GB": 0.03,
-     "LV": 0.02,
+     "LV": 0.019,
      "SE": 0.015,
-     "other": 0.197
+     "other": 0.196
     },
     "retentionCurve": {},
     "replays": 0,
@@ -3604,7 +4228,7 @@
     "totalComments": null,
     "videoDurationSeconds": 0,
     "engagementRate": 0.85,
-    "lastUpdated": "2026-11-18T05:31:05Z"
+    "lastUpdated": "2026-11-19T00:27:51Z"
    },
    "platforms": [
     {
@@ -3615,37 +4239,37 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 703,
+      "reach": 708,
       "likes": 6,
       "comments": 0,
       "shares": 0,
       "saves": 0,
       "clicks": 0,
-      "views": 714,
+      "views": 716,
       "follows": 0,
-      "igReelsAvgWatchTime": 9720,
-      "igReelsVideoViewTotalTime": 8569000,
+      "igReelsAvgWatchTime": 9710,
+      "igReelsVideoViewTotalTime": 8594000,
       "reelsSkipRate": 0,
-      "completionRate": 0.6417,
+      "completionRate": 0.6429,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-       "other": 0.002,
-       "personalProfile": 0.008,
        "search": 0.003,
        "sound": 0,
        "directMessage": 0,
        "follow": 0.001,
-       "forYou": 0.986
+       "forYou": 0.986,
+       "other": 0.002,
+       "personalProfile": 0.008
       },
       "audienceTypes": {
-       "follower": 0.02,
-       "newViewer": 0.48,
        "nonFollower": 0.98,
-       "returnViewer": 0.52
+       "returnViewer": 0.52,
+       "follower": 0.02,
+       "newViewer": 0.48
       },
       "audienceCountries": {
-       "BY": 0.224,
+       "BY": 0.226,
        "US": 0.208,
        "KZ": 0.102,
        "UA": 0.07,
@@ -3653,9 +4277,9 @@
        "NL": 0.04,
        "PL": 0.032,
        "GB": 0.03,
-       "LV": 0.02,
+       "LV": 0.019,
        "SE": 0.015,
-       "other": 0.197
+       "other": 0.196
       },
       "retentionCurve": {},
       "replays": 0,
@@ -3665,7 +4289,7 @@
       "totalComments": null,
       "videoDurationSeconds": 0,
       "engagementRate": 0.85,
-      "lastUpdated": "2026-11-18T05:31:05Z"
+      "lastUpdated": "2026-11-19T00:27:51Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7707078338359217460?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -3842,47 +4466,46 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 315,
+    "reach": 316,
     "likes": 1,
     "comments": 0,
     "shares": 0,
     "saves": 0,
     "clicks": 0,
-    "views": 316,
+    "views": 317,
     "follows": 0,
-    "igReelsAvgWatchTime": 6770,
-    "igReelsVideoViewTotalTime": 2533000,
+    "igReelsAvgWatchTime": 5610,
+    "igReelsVideoViewTotalTime": 2104000,
     "reelsSkipRate": 0,
-    "completionRate": 0.377,
+    "completionRate": 0.376,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
-     "personalProfile": 0.021,
-     "search": 0,
      "sound": 0,
-     "directMessage": 0,
      "follow": 0.008,
      "forYou": 0.971,
-     "other": 0
+     "other": 0,
+     "personalProfile": 0.021,
+     "search": 0
     },
     "audienceTypes": {
-     "nonFollower": 0.98,
-     "returnViewer": 0.59,
+     "returnViewer": 0.6,
      "follower": 0.02,
-     "newViewer": 0.41
+     "newViewer": 0.4,
+     "nonFollower": 0.98
     },
     "audienceCountries": {
-     "UA": 0.473,
-     "US": 0.093,
-     "KZ": 0.085,
-     "BY": 0.051,
+     "UA": 0.259,
+     "RU": 0.197,
+     "US": 0.112,
+     "GB": 0.051,
+     "BR": 0.032,
+     "LT": 0.029,
+     "PL": 0.027,
      "DE": 0.027,
-     "NL": 0.024,
-     "RU": 0.021,
-     "PL": 0.021,
-     "LT": 0.016,
-     "FR": 0.013,
-     "other": 0.176
+     "KZ": 0.024,
+     "BE": 0.021,
+     "other": 0.221
     },
     "retentionCurve": {},
     "replays": 0,
@@ -3892,7 +4515,7 @@
     "totalComments": null,
     "videoDurationSeconds": 0,
     "engagementRate": 0.32,
-    "lastUpdated": "2026-11-18T01:46:31Z"
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -3903,47 +4526,46 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 315,
+      "reach": 316,
       "likes": 1,
       "comments": 0,
       "shares": 0,
       "saves": 0,
       "clicks": 0,
-      "views": 316,
+      "views": 317,
       "follows": 0,
-      "igReelsAvgWatchTime": 6770,
-      "igReelsVideoViewTotalTime": 2533000,
+      "igReelsAvgWatchTime": 5610,
+      "igReelsVideoViewTotalTime": 2104000,
       "reelsSkipRate": 0,
-      "completionRate": 0.377,
+      "completionRate": 0.376,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-       "personalProfile": 0.021,
-       "search": 0,
        "sound": 0,
-       "directMessage": 0,
        "follow": 0.008,
        "forYou": 0.971,
-       "other": 0
+       "other": 0,
+       "personalProfile": 0.021,
+       "search": 0
       },
       "audienceTypes": {
-       "nonFollower": 0.98,
-       "returnViewer": 0.59,
+       "returnViewer": 0.6,
        "follower": 0.02,
-       "newViewer": 0.41
+       "newViewer": 0.4,
+       "nonFollower": 0.98
       },
       "audienceCountries": {
-       "UA": 0.473,
-       "US": 0.093,
-       "KZ": 0.085,
-       "BY": 0.051,
+       "UA": 0.259,
+       "RU": 0.197,
+       "US": 0.112,
+       "GB": 0.051,
+       "BR": 0.032,
+       "LT": 0.029,
+       "PL": 0.027,
        "DE": 0.027,
-       "NL": 0.024,
-       "RU": 0.021,
-       "PL": 0.021,
-       "LT": 0.016,
-       "FR": 0.013,
-       "other": 0.176
+       "KZ": 0.024,
+       "BE": 0.021,
+       "other": 0.221
       },
       "retentionCurve": {},
       "replays": 0,
@@ -3953,7 +4575,7 @@
       "totalComments": null,
       "videoDurationSeconds": 0,
       "engagementRate": 0.32,
-      "lastUpdated": "2026-11-18T01:46:31Z"
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7706372841859484935?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -3986,47 +4608,46 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 2448,
-    "likes": 50,
+    "reach": 2510,
+    "likes": 51,
     "comments": 0,
     "shares": 4,
     "saves": 1,
     "clicks": 0,
-    "views": 2516,
+    "views": 2581,
     "follows": 0,
-    "igReelsAvgWatchTime": 11320,
-    "igReelsVideoViewTotalTime": 34980000,
+    "igReelsAvgWatchTime": 9170,
+    "igReelsVideoViewTotalTime": 28350000,
     "reelsSkipRate": 0,
-    "completionRate": 0.4854,
+    "completionRate": 0.4851,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
+     "search": 0,
      "sound": 0,
-     "directMessage": 0,
      "follow": 0.002,
      "forYou": 0.993,
      "other": 0.001,
-     "personalProfile": 0.004,
-     "search": 0
+     "personalProfile": 0.004
     },
     "audienceTypes": {
-     "newViewer": 0.49,
+     "follower": 0,
+     "newViewer": 0.48,
      "nonFollower": 1,
-     "returnViewer": 0.51,
-     "follower": 0
+     "returnViewer": 0.52
     },
     "audienceCountries": {
-     "UA": 0.23,
-     "BY": 0.228,
-     "US": 0.15,
-     "KZ": 0.109,
-     "DE": 0.044,
-     "PL": 0.029,
-     "NL": 0.028,
-     "GB": 0.022,
-     "MD": 0.011,
-     "FI": 0.009,
-     "other": 0.14
+     "RU": 0.231,
+     "UA": 0.2,
+     "US": 0.093,
+     "BY": 0.056,
+     "DE": 0.053,
+     "GB": 0.044,
+     "PL": 0.028,
+     "NL": 0.025,
+     "BR": 0.021,
+     "KZ": 0.018,
+     "other": 0.231
     },
     "retentionCurve": {},
     "replays": 0,
@@ -4035,8 +4656,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 2.25,
-    "lastUpdated": "2026-11-18T01:46:31Z"
+    "engagementRate": 2.23,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -4047,47 +4668,46 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 2448,
-      "likes": 50,
+      "reach": 2510,
+      "likes": 51,
       "comments": 0,
       "shares": 4,
       "saves": 1,
       "clicks": 0,
-      "views": 2516,
+      "views": 2581,
       "follows": 0,
-      "igReelsAvgWatchTime": 11320,
-      "igReelsVideoViewTotalTime": 34980000,
+      "igReelsAvgWatchTime": 9170,
+      "igReelsVideoViewTotalTime": 28350000,
       "reelsSkipRate": 0,
-      "completionRate": 0.4854,
+      "completionRate": 0.4851,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+       "search": 0,
        "sound": 0,
-       "directMessage": 0,
        "follow": 0.002,
        "forYou": 0.993,
        "other": 0.001,
-       "personalProfile": 0.004,
-       "search": 0
+       "personalProfile": 0.004
       },
       "audienceTypes": {
-       "newViewer": 0.49,
+       "follower": 0,
+       "newViewer": 0.48,
        "nonFollower": 1,
-       "returnViewer": 0.51,
-       "follower": 0
+       "returnViewer": 0.52
       },
       "audienceCountries": {
-       "UA": 0.23,
-       "BY": 0.228,
-       "US": 0.15,
-       "KZ": 0.109,
-       "DE": 0.044,
-       "PL": 0.029,
-       "NL": 0.028,
-       "GB": 0.022,
-       "MD": 0.011,
-       "FI": 0.009,
-       "other": 0.14
+       "RU": 0.231,
+       "UA": 0.2,
+       "US": 0.093,
+       "BY": 0.056,
+       "DE": 0.053,
+       "GB": 0.044,
+       "PL": 0.028,
+       "NL": 0.025,
+       "BR": 0.021,
+       "KZ": 0.018,
+       "other": 0.231
       },
       "retentionCurve": {},
       "replays": 0,
@@ -4096,8 +4716,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 2.25,
-      "lastUpdated": "2026-11-18T01:46:31Z"
+      "engagementRate": 2.23,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7706318209988840712?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -4130,13 +4750,13 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 1895,
+    "reach": 1959,
     "likes": 24,
     "comments": 0,
     "shares": 1,
     "saves": 1,
     "clicks": 0,
-    "views": 1966,
+    "views": 1994,
     "follows": 2,
     "igReelsAvgWatchTime": 11110,
     "igReelsVideoViewTotalTime": 25893000,
@@ -4145,19 +4765,19 @@
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
+     "other": 0.001,
+     "personalProfile": 0.007,
+     "search": 0.004,
      "sound": 0,
      "directMessage": 0,
      "follow": 0.003,
-     "forYou": 0.985,
-     "other": 0.001,
-     "personalProfile": 0.007,
-     "search": 0.004
+     "forYou": 0.985
     },
     "audienceTypes": {
+     "returnViewer": 0.43,
      "follower": 0.01,
      "newViewer": 0.57,
-     "nonFollower": 0.99,
-     "returnViewer": 0.43
+     "nonFollower": 0.99
     },
     "audienceCountries": {
      "BY": 0.204,
@@ -4179,8 +4799,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 1.37,
-    "lastUpdated": "2026-11-17T15:32:31Z"
+    "engagementRate": 1.33,
+    "lastUpdated": "2026-11-18T16:47:35Z"
    },
    "platforms": [
     {
@@ -4191,13 +4811,13 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 1895,
+      "reach": 1959,
       "likes": 24,
       "comments": 0,
       "shares": 1,
       "saves": 1,
       "clicks": 0,
-      "views": 1966,
+      "views": 1994,
       "follows": 2,
       "igReelsAvgWatchTime": 11110,
       "igReelsVideoViewTotalTime": 25893000,
@@ -4206,19 +4826,19 @@
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+       "other": 0.001,
+       "personalProfile": 0.007,
+       "search": 0.004,
        "sound": 0,
        "directMessage": 0,
        "follow": 0.003,
-       "forYou": 0.985,
-       "other": 0.001,
-       "personalProfile": 0.007,
-       "search": 0.004
+       "forYou": 0.985
       },
       "audienceTypes": {
+       "returnViewer": 0.43,
        "follower": 0.01,
        "newViewer": 0.57,
-       "nonFollower": 0.99,
-       "returnViewer": 0.43
+       "nonFollower": 0.99
       },
       "audienceCountries": {
        "BY": 0.204,
@@ -4240,8 +4860,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 1.37,
-      "lastUpdated": "2026-11-17T15:32:31Z"
+      "engagementRate": 1.33,
+      "lastUpdated": "2026-11-18T16:47:35Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7706216835112291604?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -4274,47 +4894,46 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 14004,
-    "likes": 262,
+    "reach": 14361,
+    "likes": 268,
     "comments": 1,
     "shares": 34,
     "saves": 6,
     "clicks": 0,
-    "views": 14589,
+    "views": 15045,
     "follows": 3,
-    "igReelsAvgWatchTime": 11950,
-    "igReelsVideoViewTotalTime": 206152000,
+    "igReelsAvgWatchTime": 9810,
+    "igReelsVideoViewTotalTime": 171150000,
     "reelsSkipRate": 0,
-    "completionRate": 0.6801,
+    "completionRate": 0.6804,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
-     "directMessage": 0,
-     "follow": 0,
      "forYou": 0.994,
      "other": 0.003,
      "personalProfile": 0.003,
      "search": 0,
-     "sound": 0
+     "sound": 0,
+     "follow": 0
     },
     "audienceTypes": {
-     "returnViewer": 0.25,
+     "returnViewer": 0.26,
      "follower": 0,
-     "newViewer": 0.75,
+     "newViewer": 0.74,
      "nonFollower": 1
     },
     "audienceCountries": {
-     "BY": 0.223,
-     "US": 0.186,
-     "UA": 0.146,
-     "KZ": 0.078,
-     "DE": 0.06,
-     "GB": 0.041,
-     "NL": 0.038,
-     "PL": 0.027,
-     "SE": 0.012,
-     "BR": 0.012,
-     "other": 0.177
+     "RU": 0.212,
+     "UA": 0.136,
+     "US": 0.111,
+     "GB": 0.056,
+     "DE": 0.055,
+     "BY": 0.047,
+     "NL": 0.042,
+     "ES": 0.027,
+     "BR": 0.027,
+     "LT": 0.027,
+     "other": 0.26
     },
     "retentionCurve": {},
     "replays": 0,
@@ -4323,8 +4942,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 2.16,
-    "lastUpdated": "2026-11-17T15:32:31Z"
+    "engagementRate": 2.15,
+    "lastUpdated": "2026-11-18T16:47:35Z"
    },
    "platforms": [
     {
@@ -4335,47 +4954,46 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 14004,
-      "likes": 262,
+      "reach": 14361,
+      "likes": 268,
       "comments": 1,
       "shares": 34,
       "saves": 6,
       "clicks": 0,
-      "views": 14589,
+      "views": 15045,
       "follows": 3,
-      "igReelsAvgWatchTime": 11950,
-      "igReelsVideoViewTotalTime": 206152000,
+      "igReelsAvgWatchTime": 9810,
+      "igReelsVideoViewTotalTime": 171150000,
       "reelsSkipRate": 0,
-      "completionRate": 0.6801,
+      "completionRate": 0.6804,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-       "directMessage": 0,
-       "follow": 0,
        "forYou": 0.994,
        "other": 0.003,
        "personalProfile": 0.003,
        "search": 0,
-       "sound": 0
+       "sound": 0,
+       "follow": 0
       },
       "audienceTypes": {
-       "returnViewer": 0.25,
+       "returnViewer": 0.26,
        "follower": 0,
-       "newViewer": 0.75,
+       "newViewer": 0.74,
        "nonFollower": 1
       },
       "audienceCountries": {
-       "BY": 0.223,
-       "US": 0.186,
-       "UA": 0.146,
-       "KZ": 0.078,
-       "DE": 0.06,
-       "GB": 0.041,
-       "NL": 0.038,
-       "PL": 0.027,
-       "SE": 0.012,
-       "BR": 0.012,
-       "other": 0.177
+       "RU": 0.212,
+       "UA": 0.136,
+       "US": 0.111,
+       "GB": 0.056,
+       "DE": 0.055,
+       "BY": 0.047,
+       "NL": 0.042,
+       "ES": 0.027,
+       "BR": 0.027,
+       "LT": 0.027,
+       "other": 0.26
       },
       "retentionCurve": {},
       "replays": 0,
@@ -4384,8 +5002,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 2.16,
-      "lastUpdated": "2026-11-17T15:32:31Z"
+      "engagementRate": 2.15,
+      "lastUpdated": "2026-11-18T16:47:35Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7706195820785224980?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -4418,47 +5036,46 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 8295,
-    "likes": 167,
+    "reach": 8409,
+    "likes": 168,
     "comments": 0,
     "shares": 15,
     "saves": 6,
     "clicks": 0,
-    "views": 8428,
+    "views": 8489,
     "follows": 0,
-    "igReelsAvgWatchTime": 9930,
-    "igReelsVideoViewTotalTime": 99448000,
+    "igReelsAvgWatchTime": 8270,
+    "igReelsVideoViewTotalTime": 83194000,
     "reelsSkipRate": 0,
-    "completionRate": 0.6344,
+    "completionRate": 0.6336,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
-     "sound": 0,
-     "directMessage": 0,
      "follow": 0,
-     "forYou": 0.983,
+     "forYou": 0.982,
      "other": 0.002,
-     "personalProfile": 0.015,
-     "search": 0
+     "personalProfile": 0.016,
+     "search": 0,
+     "sound": 0
     },
     "audienceTypes": {
-     "returnViewer": 0.39,
      "follower": 0,
-     "newViewer": 0.61,
-     "nonFollower": 1
+     "newViewer": 0.6,
+     "nonFollower": 1,
+     "returnViewer": 0.4
     },
     "audienceCountries": {
-     "BY": 0.25,
-     "US": 0.173,
-     "UA": 0.169,
-     "KZ": 0.088,
-     "DE": 0.04,
-     "GB": 0.038,
-     "PL": 0.025,
-     "NL": 0.024,
-     "MD": 0.014,
-     "LV": 0.012,
-     "other": 0.167
+     "RU": 0.237,
+     "UA": 0.156,
+     "US": 0.085,
+     "BY": 0.08,
+     "GB": 0.046,
+     "DE": 0.044,
+     "NL": 0.03,
+     "PL": 0.023,
+     "BR": 0.023,
+     "KZ": 0.022,
+     "other": 0.254
     },
     "retentionCurve": {},
     "replays": 0,
@@ -4467,8 +5084,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 2.27,
-    "lastUpdated": "2026-11-17T11:52:07Z"
+    "engagementRate": 2.25,
+    "lastUpdated": "2026-11-18T13:02:29Z"
    },
    "platforms": [
     {
@@ -4479,47 +5096,46 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 8295,
-      "likes": 167,
+      "reach": 8409,
+      "likes": 168,
       "comments": 0,
       "shares": 15,
       "saves": 6,
       "clicks": 0,
-      "views": 8428,
+      "views": 8489,
       "follows": 0,
-      "igReelsAvgWatchTime": 9930,
-      "igReelsVideoViewTotalTime": 99448000,
+      "igReelsAvgWatchTime": 8270,
+      "igReelsVideoViewTotalTime": 83194000,
       "reelsSkipRate": 0,
-      "completionRate": 0.6344,
+      "completionRate": 0.6336,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-       "sound": 0,
-       "directMessage": 0,
        "follow": 0,
-       "forYou": 0.983,
+       "forYou": 0.982,
        "other": 0.002,
-       "personalProfile": 0.015,
-       "search": 0
+       "personalProfile": 0.016,
+       "search": 0,
+       "sound": 0
       },
       "audienceTypes": {
-       "returnViewer": 0.39,
        "follower": 0,
-       "newViewer": 0.61,
-       "nonFollower": 1
+       "newViewer": 0.6,
+       "nonFollower": 1,
+       "returnViewer": 0.4
       },
       "audienceCountries": {
-       "BY": 0.25,
-       "US": 0.173,
-       "UA": 0.169,
-       "KZ": 0.088,
-       "DE": 0.04,
-       "GB": 0.038,
-       "PL": 0.025,
-       "NL": 0.024,
-       "MD": 0.014,
-       "LV": 0.012,
-       "other": 0.167
+       "RU": 0.237,
+       "UA": 0.156,
+       "US": 0.085,
+       "BY": 0.08,
+       "GB": 0.046,
+       "DE": 0.044,
+       "NL": 0.03,
+       "PL": 0.023,
+       "BR": 0.023,
+       "KZ": 0.022,
+       "other": 0.254
       },
       "retentionCurve": {},
       "replays": 0,
@@ -4528,8 +5144,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 2.27,
-      "lastUpdated": "2026-11-17T11:52:07Z"
+      "engagementRate": 2.25,
+      "lastUpdated": "2026-11-18T13:02:29Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7706156110239091988?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -4562,46 +5178,46 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 79321,
-    "likes": 2966,
+    "reach": 79562,
+    "likes": 2991,
     "comments": 10,
-    "shares": 1141,
-    "saves": 200,
+    "shares": 1143,
+    "saves": 202,
     "clicks": 0,
-    "views": 80231,
+    "views": 80869,
     "follows": 12,
     "igReelsAvgWatchTime": 14450,
-    "igReelsVideoViewTotalTime": 1354250000,
+    "igReelsVideoViewTotalTime": 1357594000,
     "reelsSkipRate": 0,
-    "completionRate": 0.5752,
+    "completionRate": 0.5748,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
-     "search": 0.001,
      "sound": 0.001,
      "follow": 0,
-     "forYou": 0.977,
+     "forYou": 0.976,
      "other": 0.013,
-     "personalProfile": 0.008
+     "personalProfile": 0.009,
+     "search": 0.001
     },
     "audienceTypes": {
-     "follower": 0,
      "newViewer": 0.77,
      "nonFollower": 1,
-     "returnViewer": 0.23
+     "returnViewer": 0.23,
+     "follower": 0
     },
     "audienceCountries": {
      "RU": 0.164,
      "UA": 0.134,
      "US": 0.096,
-     "BY": 0.087,
+     "BY": 0.086,
      "DE": 0.056,
      "GB": 0.048,
      "KZ": 0.041,
      "NL": 0.035,
      "PL": 0.032,
      "BR": 0.025,
-     "other": 0.282
+     "other": 0.283
     },
     "retentionCurve": {},
     "replays": 0,
@@ -4610,8 +5226,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 5.44,
-    "lastUpdated": "2026-11-18T01:46:31Z"
+    "engagementRate": 5.46,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -4622,46 +5238,46 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 79321,
-      "likes": 2966,
+      "reach": 79562,
+      "likes": 2991,
       "comments": 10,
-      "shares": 1141,
-      "saves": 200,
+      "shares": 1143,
+      "saves": 202,
       "clicks": 0,
-      "views": 80231,
+      "views": 80869,
       "follows": 12,
       "igReelsAvgWatchTime": 14450,
-      "igReelsVideoViewTotalTime": 1354250000,
+      "igReelsVideoViewTotalTime": 1357594000,
       "reelsSkipRate": 0,
-      "completionRate": 0.5752,
+      "completionRate": 0.5748,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-       "search": 0.001,
        "sound": 0.001,
        "follow": 0,
-       "forYou": 0.977,
+       "forYou": 0.976,
        "other": 0.013,
-       "personalProfile": 0.008
+       "personalProfile": 0.009,
+       "search": 0.001
       },
       "audienceTypes": {
-       "follower": 0,
        "newViewer": 0.77,
        "nonFollower": 1,
-       "returnViewer": 0.23
+       "returnViewer": 0.23,
+       "follower": 0
       },
       "audienceCountries": {
        "RU": 0.164,
        "UA": 0.134,
        "US": 0.096,
-       "BY": 0.087,
+       "BY": 0.086,
        "DE": 0.056,
        "GB": 0.048,
        "KZ": 0.041,
        "NL": 0.035,
        "PL": 0.032,
        "BR": 0.025,
-       "other": 0.282
+       "other": 0.283
       },
       "retentionCurve": {},
       "replays": 0,
@@ -4670,8 +5286,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 5.44,
-      "lastUpdated": "2026-11-18T01:46:31Z"
+      "engagementRate": 5.46,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7705924481604226325?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -4704,18 +5320,18 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 9973,
-    "likes": 539,
+    "reach": 10023,
+    "likes": 544,
     "comments": 3,
-    "shares": 182,
+    "shares": 187,
     "saves": 67,
     "clicks": 0,
-    "views": 10076,
+    "views": 10145,
     "follows": 2,
     "igReelsAvgWatchTime": 9150,
-    "igReelsVideoViewTotalTime": 109494000,
+    "igReelsVideoViewTotalTime": 110054000,
     "reelsSkipRate": 0,
-    "completionRate": 0.5587,
+    "completionRate": 0.5591,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
@@ -4727,15 +5343,15 @@
      "sound": 0
     },
     "audienceTypes": {
-     "follower": 0,
-     "newViewer": 0.41,
      "nonFollower": 1,
-     "returnViewer": 0.59
+     "returnViewer": 0.59,
+     "follower": 0,
+     "newViewer": 0.41
     },
     "audienceCountries": {
      "RU": 0.232,
-     "UA": 0.17,
-     "US": 0.092,
+     "UA": 0.169,
+     "US": 0.091,
      "DE": 0.057,
      "GB": 0.053,
      "BY": 0.046,
@@ -4743,7 +5359,7 @@
      "KZ": 0.028,
      "PL": 0.024,
      "BR": 0.023,
-     "other": 0.241
+     "other": 0.243
     },
     "retentionCurve": {},
     "replays": 0,
@@ -4752,8 +5368,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 7.93,
-    "lastUpdated": "2026-11-17T22:04:18Z"
+    "engagementRate": 7.99,
+    "lastUpdated": "2026-11-19T00:27:51Z"
    },
    "platforms": [
     {
@@ -4764,18 +5380,18 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 9973,
-      "likes": 539,
+      "reach": 10023,
+      "likes": 544,
       "comments": 3,
-      "shares": 182,
+      "shares": 187,
       "saves": 67,
       "clicks": 0,
-      "views": 10076,
+      "views": 10145,
       "follows": 2,
       "igReelsAvgWatchTime": 9150,
-      "igReelsVideoViewTotalTime": 109494000,
+      "igReelsVideoViewTotalTime": 110054000,
       "reelsSkipRate": 0,
-      "completionRate": 0.5587,
+      "completionRate": 0.5591,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
@@ -4787,15 +5403,15 @@
        "sound": 0
       },
       "audienceTypes": {
-       "follower": 0,
-       "newViewer": 0.41,
        "nonFollower": 1,
-       "returnViewer": 0.59
+       "returnViewer": 0.59,
+       "follower": 0,
+       "newViewer": 0.41
       },
       "audienceCountries": {
        "RU": 0.232,
-       "UA": 0.17,
-       "US": 0.092,
+       "UA": 0.169,
+       "US": 0.091,
        "DE": 0.057,
        "GB": 0.053,
        "BY": 0.046,
@@ -4803,7 +5419,7 @@
        "KZ": 0.028,
        "PL": 0.024,
        "BR": 0.023,
-       "other": 0.241
+       "other": 0.243
       },
       "retentionCurve": {},
       "replays": 0,
@@ -4812,8 +5428,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 7.93,
-      "lastUpdated": "2026-11-17T22:04:18Z"
+      "engagementRate": 7.99,
+      "lastUpdated": "2026-11-19T00:27:51Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7705877722848939284?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -4846,7 +5462,7 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 1009,
+    "reach": 1013,
     "likes": 38,
     "comments": 1,
     "shares": 5,
@@ -4855,24 +5471,24 @@
     "views": 1017,
     "follows": 0,
     "igReelsAvgWatchTime": 7360,
-    "igReelsVideoViewTotalTime": 8755000,
+    "igReelsVideoViewTotalTime": 8793000,
     "reelsSkipRate": 0,
-    "completionRate": 0.4466,
+    "completionRate": 0.4464,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
+     "forYou": 0.954,
      "other": 0.001,
-     "personalProfile": 0.04,
+     "personalProfile": 0.039,
      "search": 0.004,
      "sound": 0,
-     "follow": 0.002,
-     "forYou": 0.953
+     "follow": 0.002
     },
     "audienceTypes": {
-     "returnViewer": 0.61,
      "follower": 0.01,
      "newViewer": 0.39,
-     "nonFollower": 0.99
+     "nonFollower": 0.99,
+     "returnViewer": 0.61
     },
     "audienceCountries": {
      "UA": 0.246,
@@ -4883,9 +5499,9 @@
      "PL": 0.035,
      "NL": 0.033,
      "BY": 0.028,
-     "ES": 0.022,
+     "ES": 0.023,
      "LT": 0.021,
-     "other": 0.274
+     "other": 0.273
     },
     "retentionCurve": {},
     "replays": 0,
@@ -4894,8 +5510,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 4.56,
-    "lastUpdated": "2026-11-17T22:04:18Z"
+    "engagementRate": 4.54,
+    "lastUpdated": "2026-11-19T00:27:51Z"
    },
    "platforms": [
     {
@@ -4906,7 +5522,7 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 1009,
+      "reach": 1013,
       "likes": 38,
       "comments": 1,
       "shares": 5,
@@ -4915,24 +5531,24 @@
       "views": 1017,
       "follows": 0,
       "igReelsAvgWatchTime": 7360,
-      "igReelsVideoViewTotalTime": 8755000,
+      "igReelsVideoViewTotalTime": 8793000,
       "reelsSkipRate": 0,
-      "completionRate": 0.4466,
+      "completionRate": 0.4464,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+       "forYou": 0.954,
        "other": 0.001,
-       "personalProfile": 0.04,
+       "personalProfile": 0.039,
        "search": 0.004,
        "sound": 0,
-       "follow": 0.002,
-       "forYou": 0.953
+       "follow": 0.002
       },
       "audienceTypes": {
-       "returnViewer": 0.61,
        "follower": 0.01,
        "newViewer": 0.39,
-       "nonFollower": 0.99
+       "nonFollower": 0.99,
+       "returnViewer": 0.61
       },
       "audienceCountries": {
        "UA": 0.246,
@@ -4943,9 +5559,9 @@
        "PL": 0.035,
        "NL": 0.033,
        "BY": 0.028,
-       "ES": 0.022,
+       "ES": 0.023,
        "LT": 0.021,
-       "other": 0.274
+       "other": 0.273
       },
       "retentionCurve": {},
       "replays": 0,
@@ -4954,8 +5570,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 4.56,
-      "lastUpdated": "2026-11-17T22:04:18Z"
+      "engagementRate": 4.54,
+      "lastUpdated": "2026-11-19T00:27:51Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7705854862755482900?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -4988,7 +5604,7 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 546,
+    "reach": 548,
     "likes": 16,
     "comments": 0,
     "shares": 1,
@@ -4996,39 +5612,38 @@
     "clicks": 0,
     "views": 548,
     "follows": 1,
-    "igReelsAvgWatchTime": 7960,
-    "igReelsVideoViewTotalTime": 5341000,
+    "igReelsAvgWatchTime": 6220,
+    "igReelsVideoViewTotalTime": 4258000,
     "reelsSkipRate": 0,
-    "completionRate": 0.3502,
+    "completionRate": 0.3474,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
+     "other": 0.001,
+     "personalProfile": 0.05,
      "search": 0,
      "sound": 0,
-     "directMessage": 0,
      "follow": 0.004,
-     "forYou": 0.944,
-     "other": 0.001,
-     "personalProfile": 0.051
+     "forYou": 0.945
     },
     "audienceTypes": {
-     "newViewer": 0.42,
      "nonFollower": 0.98,
      "returnViewer": 0.58,
-     "follower": 0.02
+     "follower": 0.02,
+     "newViewer": 0.42
     },
     "audienceCountries": {
-     "UA": 0.3,
-     "US": 0.153,
-     "BY": 0.118,
-     "KZ": 0.104,
-     "PL": 0.044,
-     "DE": 0.042,
-     "NL": 0.025,
-     "SK": 0.02,
-     "RU": 0.018,
-     "LV": 0.015,
-     "other": 0.161
+     "UA": 0.239,
+     "RU": 0.209,
+     "US": 0.083,
+     "DE": 0.055,
+     "PL": 0.039,
+     "GB": 0.031,
+     "NL": 0.028,
+     "BR": 0.026,
+     "LT": 0.022,
+     "BY": 0.022,
+     "other": 0.246
     },
     "retentionCurve": {},
     "replays": 0,
@@ -5037,8 +5652,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 3.48,
-    "lastUpdated": "2026-11-17T15:32:31Z"
+    "engagementRate": 3.47,
+    "lastUpdated": "2026-11-18T16:47:35Z"
    },
    "platforms": [
     {
@@ -5049,7 +5664,7 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 546,
+      "reach": 548,
       "likes": 16,
       "comments": 0,
       "shares": 1,
@@ -5057,39 +5672,38 @@
       "clicks": 0,
       "views": 548,
       "follows": 1,
-      "igReelsAvgWatchTime": 7960,
-      "igReelsVideoViewTotalTime": 5341000,
+      "igReelsAvgWatchTime": 6220,
+      "igReelsVideoViewTotalTime": 4258000,
       "reelsSkipRate": 0,
-      "completionRate": 0.3502,
+      "completionRate": 0.3474,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+       "other": 0.001,
+       "personalProfile": 0.05,
        "search": 0,
        "sound": 0,
-       "directMessage": 0,
        "follow": 0.004,
-       "forYou": 0.944,
-       "other": 0.001,
-       "personalProfile": 0.051
+       "forYou": 0.945
       },
       "audienceTypes": {
-       "newViewer": 0.42,
        "nonFollower": 0.98,
        "returnViewer": 0.58,
-       "follower": 0.02
+       "follower": 0.02,
+       "newViewer": 0.42
       },
       "audienceCountries": {
-       "UA": 0.3,
-       "US": 0.153,
-       "BY": 0.118,
-       "KZ": 0.104,
-       "PL": 0.044,
-       "DE": 0.042,
-       "NL": 0.025,
-       "SK": 0.02,
-       "RU": 0.018,
-       "LV": 0.015,
-       "other": 0.161
+       "UA": 0.239,
+       "RU": 0.209,
+       "US": 0.083,
+       "DE": 0.055,
+       "PL": 0.039,
+       "GB": 0.031,
+       "NL": 0.028,
+       "BR": 0.026,
+       "LT": 0.022,
+       "BY": 0.022,
+       "other": 0.246
       },
       "retentionCurve": {},
       "replays": 0,
@@ -5098,8 +5712,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 3.48,
-      "lastUpdated": "2026-11-17T15:32:31Z"
+      "engagementRate": 3.47,
+      "lastUpdated": "2026-11-18T16:47:35Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7705831634595040513?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -5274,43 +5888,43 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 8533,
-    "likes": 238,
+    "reach": 8592,
+    "likes": 239,
     "comments": 3,
     "shares": 34,
     "saves": 13,
     "clicks": 0,
-    "views": 8665,
+    "views": 8767,
     "follows": 0,
-    "igReelsAvgWatchTime": 10660,
-    "igReelsVideoViewTotalTime": 105092000,
+    "igReelsAvgWatchTime": 10650,
+    "igReelsVideoViewTotalTime": 105775000,
     "reelsSkipRate": 0,
-    "completionRate": 0.6927,
+    "completionRate": 0.6924,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
-     "search": 0,
      "sound": 0,
      "follow": 0.001,
      "forYou": 0.989,
      "other": 0.004,
-     "personalProfile": 0.006
+     "personalProfile": 0.006,
+     "search": 0
     },
     "audienceTypes": {
+     "returnViewer": 0.17,
      "follower": 0,
-     "newViewer": 0.84,
-     "nonFollower": 1,
-     "returnViewer": 0.16
+     "newViewer": 0.83,
+     "nonFollower": 1
     },
     "audienceCountries": {
      "RU": 0.225,
      "UA": 0.197,
-     "US": 0.096,
+     "US": 0.097,
      "BY": 0.057,
      "DE": 0.043,
      "GB": 0.042,
      "KZ": 0.04,
-     "NL": 0.03,
+     "NL": 0.029,
      "PL": 0.026,
      "BR": 0.021,
      "other": 0.223
@@ -5322,8 +5936,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 3.38,
-    "lastUpdated": "2026-11-18T01:46:31Z"
+    "engagementRate": 3.36,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -5334,43 +5948,43 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 8533,
-      "likes": 238,
+      "reach": 8592,
+      "likes": 239,
       "comments": 3,
       "shares": 34,
       "saves": 13,
       "clicks": 0,
-      "views": 8665,
+      "views": 8767,
       "follows": 0,
-      "igReelsAvgWatchTime": 10660,
-      "igReelsVideoViewTotalTime": 105092000,
+      "igReelsAvgWatchTime": 10650,
+      "igReelsVideoViewTotalTime": 105775000,
       "reelsSkipRate": 0,
-      "completionRate": 0.6927,
+      "completionRate": 0.6924,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-       "search": 0,
        "sound": 0,
        "follow": 0.001,
        "forYou": 0.989,
        "other": 0.004,
-       "personalProfile": 0.006
+       "personalProfile": 0.006,
+       "search": 0
       },
       "audienceTypes": {
+       "returnViewer": 0.17,
        "follower": 0,
-       "newViewer": 0.84,
-       "nonFollower": 1,
-       "returnViewer": 0.16
+       "newViewer": 0.83,
+       "nonFollower": 1
       },
       "audienceCountries": {
        "RU": 0.225,
        "UA": 0.197,
-       "US": 0.096,
+       "US": 0.097,
        "BY": 0.057,
        "DE": 0.043,
        "GB": 0.042,
        "KZ": 0.04,
-       "NL": 0.03,
+       "NL": 0.029,
        "PL": 0.026,
        "BR": 0.021,
        "other": 0.223
@@ -5382,8 +5996,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 3.38,
-      "lastUpdated": "2026-11-18T01:46:31Z"
+      "engagementRate": 3.36,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7705606519815015681?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -5416,7 +6030,7 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 1150,
+    "reach": 1152,
     "likes": 85,
     "comments": 0,
     "shares": 9,
@@ -5424,38 +6038,38 @@
     "clicks": 0,
     "views": 1153,
     "follows": 0,
-    "igReelsAvgWatchTime": 9010,
-    "igReelsVideoViewTotalTime": 12581000,
+    "igReelsAvgWatchTime": 9000,
+    "igReelsVideoViewTotalTime": 12583000,
     "reelsSkipRate": 0,
-    "completionRate": 0.6189,
+    "completionRate": 0.618,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
+     "other": 0.019,
+     "personalProfile": 0.049,
+     "search": 0,
      "sound": 0,
      "follow": 0.001,
-     "forYou": 0.933,
-     "other": 0.017,
-     "personalProfile": 0.049,
-     "search": 0
+     "forYou": 0.931
     },
     "audienceTypes": {
      "nonFollower": 0.99,
-     "returnViewer": 0.49,
+     "returnViewer": 0.5,
      "follower": 0.01,
-     "newViewer": 0.51
+     "newViewer": 0.5
     },
     "audienceCountries": {
-     "UA": 0.338,
+     "UA": 0.34,
      "RU": 0.146,
      "US": 0.073,
      "DE": 0.054,
-     "BY": 0.042,
+     "BY": 0.041,
      "GB": 0.033,
      "PL": 0.023,
      "NL": 0.022,
      "KZ": 0.017,
      "LT": 0.016,
-     "other": 0.236
+     "other": 0.235
     },
     "retentionCurve": {},
     "replays": 0,
@@ -5464,8 +6078,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 8.78,
-    "lastUpdated": "2026-11-17T15:32:31Z"
+    "engagementRate": 8.77,
+    "lastUpdated": "2026-11-18T16:47:35Z"
    },
    "platforms": [
     {
@@ -5476,7 +6090,7 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 1150,
+      "reach": 1152,
       "likes": 85,
       "comments": 0,
       "shares": 9,
@@ -5484,38 +6098,38 @@
       "clicks": 0,
       "views": 1153,
       "follows": 0,
-      "igReelsAvgWatchTime": 9010,
-      "igReelsVideoViewTotalTime": 12581000,
+      "igReelsAvgWatchTime": 9000,
+      "igReelsVideoViewTotalTime": 12583000,
       "reelsSkipRate": 0,
-      "completionRate": 0.6189,
+      "completionRate": 0.618,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+       "other": 0.019,
+       "personalProfile": 0.049,
+       "search": 0,
        "sound": 0,
        "follow": 0.001,
-       "forYou": 0.933,
-       "other": 0.017,
-       "personalProfile": 0.049,
-       "search": 0
+       "forYou": 0.931
       },
       "audienceTypes": {
        "nonFollower": 0.99,
-       "returnViewer": 0.49,
+       "returnViewer": 0.5,
        "follower": 0.01,
-       "newViewer": 0.51
+       "newViewer": 0.5
       },
       "audienceCountries": {
-       "UA": 0.338,
+       "UA": 0.34,
        "RU": 0.146,
        "US": 0.073,
        "DE": 0.054,
-       "BY": 0.042,
+       "BY": 0.041,
        "GB": 0.033,
        "PL": 0.023,
        "NL": 0.022,
        "KZ": 0.017,
        "LT": 0.016,
-       "other": 0.236
+       "other": 0.235
       },
       "retentionCurve": {},
       "replays": 0,
@@ -5524,8 +6138,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 8.78,
-      "lastUpdated": "2026-11-17T15:32:31Z"
+      "engagementRate": 8.77,
+      "lastUpdated": "2026-11-18T16:47:35Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7705429844737330453?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -5573,18 +6187,18 @@
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
+     "sound": 0,
+     "follow": 0,
      "forYou": 0.81,
      "other": 0.03,
      "personalProfile": 0.16,
-     "search": 0,
-     "sound": 0,
-     "follow": 0
+     "search": 0
     },
     "audienceTypes": {
-     "returnViewer": 0.46,
      "follower": 0.01,
      "newViewer": 0.54,
-     "nonFollower": 0.99
+     "nonFollower": 0.99,
+     "returnViewer": 0.46
     },
     "audienceCountries": {
      "UA": 0.369,
@@ -5607,7 +6221,7 @@
     "totalComments": null,
     "videoDurationSeconds": 0,
     "engagementRate": 6.1,
-    "lastUpdated": "2026-11-17T11:52:07Z"
+    "lastUpdated": "2026-11-18T13:02:29Z"
    },
    "platforms": [
     {
@@ -5633,18 +6247,18 @@
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+       "sound": 0,
+       "follow": 0,
        "forYou": 0.81,
        "other": 0.03,
        "personalProfile": 0.16,
-       "search": 0,
-       "sound": 0,
-       "follow": 0
+       "search": 0
       },
       "audienceTypes": {
-       "returnViewer": 0.46,
        "follower": 0.01,
        "newViewer": 0.54,
-       "nonFollower": 0.99
+       "nonFollower": 0.99,
+       "returnViewer": 0.46
       },
       "audienceCountries": {
        "UA": 0.369,
@@ -5667,7 +6281,7 @@
       "totalComments": null,
       "videoDurationSeconds": 0,
       "engagementRate": 6.1,
-      "lastUpdated": "2026-11-17T11:52:07Z"
+      "lastUpdated": "2026-11-18T13:02:29Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7705376574895443221?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -5700,27 +6314,27 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 68757,
-    "likes": 5237,
+    "reach": 70161,
+    "likes": 5255,
     "comments": 163,
-    "shares": 1654,
-    "saves": 623,
+    "shares": 1665,
+    "saves": 626,
     "clicks": 0,
-    "views": 71237,
-    "follows": 49,
-    "igReelsAvgWatchTime": 11760,
-    "igReelsVideoViewTotalTime": 991292000,
+    "views": 71625,
+    "follows": 50,
+    "igReelsAvgWatchTime": 11750,
+    "igReelsVideoViewTotalTime": 1007711000,
     "reelsSkipRate": 0,
-    "completionRate": 0.5366,
+    "completionRate": 0.5355,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
+     "follow": 0,
+     "forYou": 0.949,
      "other": 0.023,
      "personalProfile": 0.021,
      "search": 0.007,
-     "sound": 0,
-     "follow": 0,
-     "forYou": 0.949
+     "sound": 0
     },
     "audienceTypes": {
      "returnViewer": 0.28,
@@ -5729,17 +6343,17 @@
      "nonFollower": 1
     },
     "audienceCountries": {
-     "RU": 0.284,
+     "RU": 0.281,
      "UA": 0.161,
-     "US": 0.094,
+     "US": 0.095,
      "BY": 0.048,
      "KZ": 0.046,
      "DE": 0.045,
      "GB": 0.043,
-     "NL": 0.025,
+     "NL": 0.026,
      "BR": 0.021,
      "LT": 0.018,
-     "other": 0.215
+     "other": 0.216
     },
     "retentionCurve": {},
     "replays": 0,
@@ -5748,8 +6362,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 11.17,
-    "lastUpdated": "2026-11-18T01:46:31Z"
+    "engagementRate": 10.99,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -5760,27 +6374,27 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 68757,
-      "likes": 5237,
+      "reach": 70161,
+      "likes": 5255,
       "comments": 163,
-      "shares": 1654,
-      "saves": 623,
+      "shares": 1665,
+      "saves": 626,
       "clicks": 0,
-      "views": 71237,
-      "follows": 49,
-      "igReelsAvgWatchTime": 11760,
-      "igReelsVideoViewTotalTime": 991292000,
+      "views": 71625,
+      "follows": 50,
+      "igReelsAvgWatchTime": 11750,
+      "igReelsVideoViewTotalTime": 1007711000,
       "reelsSkipRate": 0,
-      "completionRate": 0.5366,
+      "completionRate": 0.5355,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+       "follow": 0,
+       "forYou": 0.949,
        "other": 0.023,
        "personalProfile": 0.021,
        "search": 0.007,
-       "sound": 0,
-       "follow": 0,
-       "forYou": 0.949
+       "sound": 0
       },
       "audienceTypes": {
        "returnViewer": 0.28,
@@ -5789,17 +6403,17 @@
        "nonFollower": 1
       },
       "audienceCountries": {
-       "RU": 0.284,
+       "RU": 0.281,
        "UA": 0.161,
-       "US": 0.094,
+       "US": 0.095,
        "BY": 0.048,
        "KZ": 0.046,
        "DE": 0.045,
        "GB": 0.043,
-       "NL": 0.025,
+       "NL": 0.026,
        "BR": 0.021,
        "LT": 0.018,
-       "other": 0.215
+       "other": 0.216
       },
       "retentionCurve": {},
       "replays": 0,
@@ -5808,8 +6422,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 11.17,
-      "lastUpdated": "2026-11-18T01:46:31Z"
+      "engagementRate": 10.99,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7705123593943846164?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -5850,19 +6464,19 @@
     "clicks": 0,
     "views": 617,
     "follows": 0,
-    "igReelsAvgWatchTime": 7350,
+    "igReelsAvgWatchTime": 7340,
     "igReelsVideoViewTotalTime": 5796000,
     "reelsSkipRate": 0,
-    "completionRate": 0.4601,
+    "completionRate": 0.4595,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
+     "sound": 0,
      "follow": 0.003,
-     "forYou": 0.877,
+     "forYou": 0.875,
      "other": 0.005,
-     "personalProfile": 0.106,
-     "search": 0.009,
-     "sound": 0
+     "personalProfile": 0.108,
+     "search": 0.009
     },
     "audienceTypes": {
      "follower": 0.01,
@@ -5873,13 +6487,13 @@
     "audienceCountries": {
      "RU": 0.219,
      "UA": 0.095,
-     "US": 0.093,
+     "US": 0.092,
      "DE": 0.063,
      "GB": 0.051,
      "KZ": 0.043,
      "PL": 0.039,
      "BY": 0.035,
-     "SK": 0.033,
+     "SK": 0.034,
      "IR": 0.033,
      "other": 0.296
     },
@@ -5891,7 +6505,7 @@
     "totalComments": null,
     "videoDurationSeconds": 0,
     "engagementRate": 2.76,
-    "lastUpdated": "2026-11-17T22:04:18Z"
+    "lastUpdated": "2026-11-19T00:27:51Z"
    },
    "platforms": [
     {
@@ -5910,19 +6524,19 @@
       "clicks": 0,
       "views": 617,
       "follows": 0,
-      "igReelsAvgWatchTime": 7350,
+      "igReelsAvgWatchTime": 7340,
       "igReelsVideoViewTotalTime": 5796000,
       "reelsSkipRate": 0,
-      "completionRate": 0.4601,
+      "completionRate": 0.4595,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+       "sound": 0,
        "follow": 0.003,
-       "forYou": 0.877,
+       "forYou": 0.875,
        "other": 0.005,
-       "personalProfile": 0.106,
-       "search": 0.009,
-       "sound": 0
+       "personalProfile": 0.108,
+       "search": 0.009
       },
       "audienceTypes": {
        "follower": 0.01,
@@ -5933,13 +6547,13 @@
       "audienceCountries": {
        "RU": 0.219,
        "UA": 0.095,
-       "US": 0.093,
+       "US": 0.092,
        "DE": 0.063,
        "GB": 0.051,
        "KZ": 0.043,
        "PL": 0.039,
        "BY": 0.035,
-       "SK": 0.033,
+       "SK": 0.034,
        "IR": 0.033,
        "other": 0.296
       },
@@ -5951,7 +6565,7 @@
       "totalComments": null,
       "videoDurationSeconds": 0,
       "engagementRate": 2.76,
-      "lastUpdated": "2026-11-17T22:04:18Z"
+      "lastUpdated": "2026-11-19T00:27:51Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7705050925437668628?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -5984,46 +6598,46 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 1936,
+    "reach": 1965,
     "likes": 80,
     "comments": 0,
     "shares": 17,
     "saves": 5,
     "clicks": 0,
-    "views": 1974,
+    "views": 2002,
     "follows": 0,
-    "igReelsAvgWatchTime": 8800,
-    "igReelsVideoViewTotalTime": 20295000,
+    "igReelsAvgWatchTime": 8750,
+    "igReelsVideoViewTotalTime": 20485000,
     "reelsSkipRate": 0,
-    "completionRate": 0.6103,
+    "completionRate": 0.6104,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
+     "other": 0.005,
+     "personalProfile": 0.044,
+     "search": 0,
      "sound": 0,
      "follow": 0.001,
-     "forYou": 0.949,
-     "other": 0.005,
-     "personalProfile": 0.045,
-     "search": 0
+     "forYou": 0.95
     },
     "audienceTypes": {
      "follower": 0,
-     "newViewer": 0.58,
+     "newViewer": 0.57,
      "nonFollower": 1,
-     "returnViewer": 0.42
+     "returnViewer": 0.43
     },
     "audienceCountries": {
-     "UA": 0.271,
+     "UA": 0.27,
      "RU": 0.144,
-     "US": 0.087,
-     "DE": 0.066,
-     "PL": 0.049,
+     "US": 0.088,
+     "DE": 0.065,
+     "PL": 0.05,
      "GB": 0.045,
-     "NL": 0.026,
-     "BY": 0.024,
+     "NL": 0.027,
+     "BY": 0.023,
      "SK": 0.023,
-     "BR": 0.02,
-     "other": 0.245
+     "BR": 0.019,
+     "other": 0.246
     },
     "retentionCurve": {},
     "replays": 0,
@@ -6032,8 +6646,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 5.27,
-    "lastUpdated": "2026-11-17T11:52:07Z"
+    "engagementRate": 5.19,
+    "lastUpdated": "2026-11-18T13:02:29Z"
    },
    "platforms": [
     {
@@ -6044,46 +6658,46 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 1936,
+      "reach": 1965,
       "likes": 80,
       "comments": 0,
       "shares": 17,
       "saves": 5,
       "clicks": 0,
-      "views": 1974,
+      "views": 2002,
       "follows": 0,
-      "igReelsAvgWatchTime": 8800,
-      "igReelsVideoViewTotalTime": 20295000,
+      "igReelsAvgWatchTime": 8750,
+      "igReelsVideoViewTotalTime": 20485000,
       "reelsSkipRate": 0,
-      "completionRate": 0.6103,
+      "completionRate": 0.6104,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
+       "other": 0.005,
+       "personalProfile": 0.044,
+       "search": 0,
        "sound": 0,
        "follow": 0.001,
-       "forYou": 0.949,
-       "other": 0.005,
-       "personalProfile": 0.045,
-       "search": 0
+       "forYou": 0.95
       },
       "audienceTypes": {
        "follower": 0,
-       "newViewer": 0.58,
+       "newViewer": 0.57,
        "nonFollower": 1,
-       "returnViewer": 0.42
+       "returnViewer": 0.43
       },
       "audienceCountries": {
-       "UA": 0.271,
+       "UA": 0.27,
        "RU": 0.144,
-       "US": 0.087,
-       "DE": 0.066,
-       "PL": 0.049,
+       "US": 0.088,
+       "DE": 0.065,
+       "PL": 0.05,
        "GB": 0.045,
-       "NL": 0.026,
-       "BY": 0.024,
+       "NL": 0.027,
+       "BY": 0.023,
        "SK": 0.023,
-       "BR": 0.02,
-       "other": 0.245
+       "BR": 0.019,
+       "other": 0.246
       },
       "retentionCurve": {},
       "replays": 0,
@@ -6092,8 +6706,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 5.27,
-      "lastUpdated": "2026-11-17T11:52:07Z"
+      "engagementRate": 5.19,
+      "lastUpdated": "2026-11-18T13:02:29Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7704982175795383573?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -6126,36 +6740,36 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 26432,
-    "likes": 2273,
-    "comments": 32,
-    "shares": 1061,
-    "saves": 358,
+    "reach": 27034,
+    "likes": 2363,
+    "comments": 35,
+    "shares": 1087,
+    "saves": 372,
     "clicks": 0,
-    "views": 27701,
+    "views": 28439,
     "follows": 22,
-    "igReelsAvgWatchTime": 9710,
-    "igReelsVideoViewTotalTime": 311019000,
+    "igReelsAvgWatchTime": 9720,
+    "igReelsVideoViewTotalTime": 318730000,
     "reelsSkipRate": 0,
-    "completionRate": 0.425,
+    "completionRate": 0.4251,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
-     "search": 0.006,
-     "sound": 0,
      "follow": 0,
      "forYou": 0.93,
      "other": 0.032,
-     "personalProfile": 0.032
+     "personalProfile": 0.032,
+     "search": 0.006,
+     "sound": 0
     },
     "audienceTypes": {
-     "newViewer": 0.68,
-     "nonFollower": 1,
-     "returnViewer": 0.32,
-     "follower": 0
+     "returnViewer": 0.33,
+     "follower": 0,
+     "newViewer": 0.67,
+     "nonFollower": 1
     },
     "audienceCountries": {
-     "UA": 0.216,
+     "UA": 0.215,
      "RU": 0.198,
      "US": 0.09,
      "DE": 0.052,
@@ -6163,9 +6777,9 @@
      "GB": 0.045,
      "KZ": 0.038,
      "PL": 0.028,
-     "NL": 0.026,
-     "BR": 0.023,
-     "other": 0.234
+     "NL": 0.027,
+     "BR": 0.024,
+     "other": 0.233
     },
     "retentionCurve": {},
     "replays": 0,
@@ -6174,8 +6788,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 14.09,
-    "lastUpdated": "2026-11-18T01:46:31Z"
+    "engagementRate": 14.27,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -6186,36 +6800,36 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 26432,
-      "likes": 2273,
-      "comments": 32,
-      "shares": 1061,
-      "saves": 358,
+      "reach": 27034,
+      "likes": 2363,
+      "comments": 35,
+      "shares": 1087,
+      "saves": 372,
       "clicks": 0,
-      "views": 27701,
+      "views": 28439,
       "follows": 22,
-      "igReelsAvgWatchTime": 9710,
-      "igReelsVideoViewTotalTime": 311019000,
+      "igReelsAvgWatchTime": 9720,
+      "igReelsVideoViewTotalTime": 318730000,
       "reelsSkipRate": 0,
-      "completionRate": 0.425,
+      "completionRate": 0.4251,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-       "search": 0.006,
-       "sound": 0,
        "follow": 0,
        "forYou": 0.93,
        "other": 0.032,
-       "personalProfile": 0.032
+       "personalProfile": 0.032,
+       "search": 0.006,
+       "sound": 0
       },
       "audienceTypes": {
-       "newViewer": 0.68,
-       "nonFollower": 1,
-       "returnViewer": 0.32,
-       "follower": 0
+       "returnViewer": 0.33,
+       "follower": 0,
+       "newViewer": 0.67,
+       "nonFollower": 1
       },
       "audienceCountries": {
-       "UA": 0.216,
+       "UA": 0.215,
        "RU": 0.198,
        "US": 0.09,
        "DE": 0.052,
@@ -6223,9 +6837,9 @@
        "GB": 0.045,
        "KZ": 0.038,
        "PL": 0.028,
-       "NL": 0.026,
-       "BR": 0.023,
-       "other": 0.234
+       "NL": 0.027,
+       "BR": 0.024,
+       "other": 0.233
       },
       "retentionCurve": {},
       "replays": 0,
@@ -6234,8 +6848,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 14.09,
-      "lastUpdated": "2026-11-18T01:46:31Z"
+      "engagementRate": 14.27,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7704704923107200277?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -6268,44 +6882,44 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 31218,
-    "likes": 1563,
-    "comments": 30,
-    "shares": 222,
-    "saves": 109,
+    "reach": 32027,
+    "likes": 1604,
+    "comments": 31,
+    "shares": 227,
+    "saves": 111,
     "clicks": 0,
-    "views": 32398,
+    "views": 32971,
     "follows": 11,
-    "igReelsAvgWatchTime": 7730,
-    "igReelsVideoViewTotalTime": 294788000,
+    "igReelsAvgWatchTime": 7750,
+    "igReelsVideoViewTotalTime": 303292000,
     "reelsSkipRate": 0,
-    "completionRate": 0.5844,
+    "completionRate": 0.5848,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
-     "other": 0.007,
-     "personalProfile": 0.012,
-     "search": 0.003,
      "sound": 0,
      "follow": 0,
-     "forYou": 0.978
+     "forYou": 0.977,
+     "other": 0.007,
+     "personalProfile": 0.012,
+     "search": 0.004
     },
     "audienceTypes": {
-     "returnViewer": 0.16,
-     "follower": 0,
      "newViewer": 0.84,
-     "nonFollower": 1
+     "nonFollower": 1,
+     "returnViewer": 0.16,
+     "follower": 0
     },
     "audienceCountries": {
      "RU": 0.255,
      "UA": 0.153,
-     "US": 0.099,
+     "US": 0.1,
      "GB": 0.051,
-     "DE": 0.051,
-     "BY": 0.049,
+     "BY": 0.05,
+     "DE": 0.05,
      "KZ": 0.032,
      "NL": 0.03,
-     "BR": 0.027,
+     "BR": 0.026,
      "LT": 0.02,
      "other": 0.233
     },
@@ -6317,7 +6931,7 @@
     "totalComments": null,
     "videoDurationSeconds": 0,
     "engagementRate": 6.16,
-    "lastUpdated": "2026-11-17T15:32:31Z"
+    "lastUpdated": "2026-11-18T16:47:35Z"
    },
    "platforms": [
     {
@@ -6328,44 +6942,44 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 31218,
-      "likes": 1563,
-      "comments": 30,
-      "shares": 222,
-      "saves": 109,
+      "reach": 32027,
+      "likes": 1604,
+      "comments": 31,
+      "shares": 227,
+      "saves": 111,
       "clicks": 0,
-      "views": 32398,
+      "views": 32971,
       "follows": 11,
-      "igReelsAvgWatchTime": 7730,
-      "igReelsVideoViewTotalTime": 294788000,
+      "igReelsAvgWatchTime": 7750,
+      "igReelsVideoViewTotalTime": 303292000,
       "reelsSkipRate": 0,
-      "completionRate": 0.5844,
+      "completionRate": 0.5848,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-       "other": 0.007,
-       "personalProfile": 0.012,
-       "search": 0.003,
        "sound": 0,
        "follow": 0,
-       "forYou": 0.978
+       "forYou": 0.977,
+       "other": 0.007,
+       "personalProfile": 0.012,
+       "search": 0.004
       },
       "audienceTypes": {
-       "returnViewer": 0.16,
-       "follower": 0,
        "newViewer": 0.84,
-       "nonFollower": 1
+       "nonFollower": 1,
+       "returnViewer": 0.16,
+       "follower": 0
       },
       "audienceCountries": {
        "RU": 0.255,
        "UA": 0.153,
-       "US": 0.099,
+       "US": 0.1,
        "GB": 0.051,
-       "DE": 0.051,
-       "BY": 0.049,
+       "BY": 0.05,
+       "DE": 0.05,
        "KZ": 0.032,
        "NL": 0.03,
-       "BR": 0.027,
+       "BR": 0.026,
        "LT": 0.02,
        "other": 0.233
       },
@@ -6377,7 +6991,7 @@
       "totalComments": null,
       "videoDurationSeconds": 0,
       "engagementRate": 6.16,
-      "lastUpdated": "2026-11-17T15:32:31Z"
+      "lastUpdated": "2026-11-18T16:47:35Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7704615795690589461?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -6410,46 +7024,46 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 66925,
-    "likes": 5430,
-    "comments": 32,
-    "shares": 2346,
-    "saves": 491,
+    "reach": 67698,
+    "likes": 5550,
+    "comments": 33,
+    "shares": 2397,
+    "saves": 501,
     "clicks": 0,
-    "views": 70282,
-    "follows": 36,
+    "views": 71489,
+    "follows": 38,
     "igReelsAvgWatchTime": 10670,
-    "igReelsVideoViewTotalTime": 843785000,
+    "igReelsVideoViewTotalTime": 857364000,
     "reelsSkipRate": 0,
-    "completionRate": 0.5627,
+    "completionRate": 0.563,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
-     "personalProfile": 0.022,
-     "search": 0.003,
      "sound": 0,
      "follow": 0,
      "forYou": 0.948,
-     "other": 0.027
+     "other": 0.027,
+     "personalProfile": 0.022,
+     "search": 0.003
     },
     "audienceTypes": {
+     "follower": 0,
      "newViewer": 0.93,
      "nonFollower": 1,
-     "returnViewer": 0.07,
-     "follower": 0
+     "returnViewer": 0.07
     },
     "audienceCountries": {
-     "UA": 0.395,
-     "RU": 0.148,
+     "UA": 0.393,
+     "RU": 0.149,
      "US": 0.059,
      "BY": 0.046,
      "DE": 0.043,
-     "KZ": 0.036,
+     "KZ": 0.037,
      "GB": 0.031,
-     "PL": 0.031,
+     "PL": 0.03,
      "NL": 0.019,
      "BR": 0.015,
-     "other": 0.177
+     "other": 0.178
     },
     "retentionCurve": {},
     "replays": 0,
@@ -6458,8 +7072,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 12.4,
-    "lastUpdated": "2026-11-18T01:46:31Z"
+    "engagementRate": 12.53,
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -6470,46 +7084,46 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 66925,
-      "likes": 5430,
-      "comments": 32,
-      "shares": 2346,
-      "saves": 491,
+      "reach": 67698,
+      "likes": 5550,
+      "comments": 33,
+      "shares": 2397,
+      "saves": 501,
       "clicks": 0,
-      "views": 70282,
-      "follows": 36,
+      "views": 71489,
+      "follows": 38,
       "igReelsAvgWatchTime": 10670,
-      "igReelsVideoViewTotalTime": 843785000,
+      "igReelsVideoViewTotalTime": 857364000,
       "reelsSkipRate": 0,
-      "completionRate": 0.5627,
+      "completionRate": 0.563,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-       "personalProfile": 0.022,
-       "search": 0.003,
        "sound": 0,
        "follow": 0,
        "forYou": 0.948,
-       "other": 0.027
+       "other": 0.027,
+       "personalProfile": 0.022,
+       "search": 0.003
       },
       "audienceTypes": {
+       "follower": 0,
        "newViewer": 0.93,
        "nonFollower": 1,
-       "returnViewer": 0.07,
-       "follower": 0
+       "returnViewer": 0.07
       },
       "audienceCountries": {
-       "UA": 0.395,
-       "RU": 0.148,
+       "UA": 0.393,
+       "RU": 0.149,
        "US": 0.059,
        "BY": 0.046,
        "DE": 0.043,
-       "KZ": 0.036,
+       "KZ": 0.037,
        "GB": 0.031,
-       "PL": 0.031,
+       "PL": 0.03,
        "NL": 0.019,
        "BR": 0.015,
-       "other": 0.177
+       "other": 0.178
       },
       "retentionCurve": {},
       "replays": 0,
@@ -6518,8 +7132,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 12.4,
-      "lastUpdated": "2026-11-18T01:46:31Z"
+      "engagementRate": 12.53,
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7704353314850426132?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -6552,7 +7166,7 @@
    "status": "published",
    "analytics": {
     "impressions": 0,
-    "reach": 1704,
+    "reach": 1717,
     "likes": 31,
     "comments": 4,
     "shares": 4,
@@ -6560,37 +7174,37 @@
     "clicks": 0,
     "views": 1751,
     "follows": 0,
-    "igReelsAvgWatchTime": 7850,
-    "igReelsVideoViewTotalTime": 15596000,
+    "igReelsAvgWatchTime": 7830,
+    "igReelsVideoViewTotalTime": 15648000,
     "reelsSkipRate": 0,
-    "completionRate": 0.5694,
+    "completionRate": 0.5686,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
-     "forYou": 0.92,
+     "sound": 0,
+     "follow": 0.003,
+     "forYou": 0.918,
      "other": 0.001,
      "personalProfile": 0.063,
-     "search": 0.013,
-     "sound": 0,
-     "follow": 0.003
+     "search": 0.015
     },
     "audienceTypes": {
-     "follower": 0,
+     "follower": 0.01,
      "newViewer": 0.89,
-     "nonFollower": 1,
+     "nonFollower": 0.99,
      "returnViewer": 0.11
     },
     "audienceCountries": {
-     "UA": 0.626,
+     "UA": 0.623,
      "RU": 0.058,
-     "US": 0.034,
+     "US": 0.035,
      "PL": 0.033,
      "SK": 0.032,
-     "DE": 0.03,
+     "DE": 0.031,
      "BY": 0.017,
      "GB": 0.017,
      "NL": 0.014,
-     "BR": 0.011,
+     "BR": 0.012,
      "other": 0.128
     },
     "retentionCurve": {},
@@ -6600,8 +7214,8 @@
     "totalLikes": null,
     "totalComments": null,
     "videoDurationSeconds": 0,
-    "engagementRate": 2.52,
-    "lastUpdated": "2026-11-17T15:32:31Z"
+    "engagementRate": 2.5,
+    "lastUpdated": "2026-11-18T16:47:35Z"
    },
    "platforms": [
     {
@@ -6612,7 +7226,7 @@
      "accountUsername": "dnevnik_nekodera",
      "analytics": {
       "impressions": 0,
-      "reach": 1704,
+      "reach": 1717,
       "likes": 31,
       "comments": 4,
       "shares": 4,
@@ -6620,37 +7234,37 @@
       "clicks": 0,
       "views": 1751,
       "follows": 0,
-      "igReelsAvgWatchTime": 7850,
-      "igReelsVideoViewTotalTime": 15596000,
+      "igReelsAvgWatchTime": 7830,
+      "igReelsVideoViewTotalTime": 15648000,
       "reelsSkipRate": 0,
-      "completionRate": 0.5694,
+      "completionRate": 0.5686,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
-       "forYou": 0.92,
+       "sound": 0,
+       "follow": 0.003,
+       "forYou": 0.918,
        "other": 0.001,
        "personalProfile": 0.063,
-       "search": 0.013,
-       "sound": 0,
-       "follow": 0.003
+       "search": 0.015
       },
       "audienceTypes": {
-       "follower": 0,
+       "follower": 0.01,
        "newViewer": 0.89,
-       "nonFollower": 1,
+       "nonFollower": 0.99,
        "returnViewer": 0.11
       },
       "audienceCountries": {
-       "UA": 0.626,
+       "UA": 0.623,
        "RU": 0.058,
-       "US": 0.034,
+       "US": 0.035,
        "PL": 0.033,
        "SK": 0.032,
-       "DE": 0.03,
+       "DE": 0.031,
        "BY": 0.017,
        "GB": 0.017,
        "NL": 0.014,
-       "BR": 0.011,
+       "BR": 0.012,
        "other": 0.128
       },
       "retentionCurve": {},
@@ -6660,8 +7274,8 @@
       "totalLikes": null,
       "totalComments": null,
       "videoDurationSeconds": 0,
-      "engagementRate": 2.52,
-      "lastUpdated": "2026-11-17T15:32:31Z"
+      "engagementRate": 2.5,
+      "lastUpdated": "2026-11-18T16:47:35Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7704253696418565396?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
@@ -6700,27 +7314,27 @@
     "shares": 7,
     "saves": 2,
     "clicks": 0,
-    "views": 1974,
+    "views": 1975,
     "follows": 0,
-    "igReelsAvgWatchTime": 10900,
-    "igReelsVideoViewTotalTime": 23835000,
+    "igReelsAvgWatchTime": 10890,
+    "igReelsVideoViewTotalTime": 23839000,
     "reelsSkipRate": 0,
-    "completionRate": 0.6164,
+    "completionRate": 0.6163,
     "profileViews": 0,
     "websiteClicks": 0,
     "impressionSources": {
      "sound": 0,
      "follow": 0.001,
-     "forYou": 0.938,
+     "forYou": 0.937,
      "other": 0.013,
      "personalProfile": 0.044,
-     "search": 0.004
+     "search": 0.005
     },
     "audienceTypes": {
+     "follower": 0,
      "newViewer": 0.92,
      "nonFollower": 1,
-     "returnViewer": 0.08,
-     "follower": 0
+     "returnViewer": 0.08
     },
     "audienceCountries": {
      "UA": 0.61,
@@ -6743,7 +7357,7 @@
     "totalComments": null,
     "videoDurationSeconds": 0,
     "engagementRate": 5.24,
-    "lastUpdated": "2026-11-18T01:46:31Z"
+    "lastUpdated": "2026-11-19T04:12:57Z"
    },
    "platforms": [
     {
@@ -6760,27 +7374,27 @@
       "shares": 7,
       "saves": 2,
       "clicks": 0,
-      "views": 1974,
+      "views": 1975,
       "follows": 0,
-      "igReelsAvgWatchTime": 10900,
-      "igReelsVideoViewTotalTime": 23835000,
+      "igReelsAvgWatchTime": 10890,
+      "igReelsVideoViewTotalTime": 23839000,
       "reelsSkipRate": 0,
-      "completionRate": 0.6164,
+      "completionRate": 0.6163,
       "profileViews": 0,
       "websiteClicks": 0,
       "impressionSources": {
        "sound": 0,
        "follow": 0.001,
-       "forYou": 0.938,
+       "forYou": 0.937,
        "other": 0.013,
        "personalProfile": 0.044,
-       "search": 0.004
+       "search": 0.005
       },
       "audienceTypes": {
+       "follower": 0,
        "newViewer": 0.92,
        "nonFollower": 1,
-       "returnViewer": 0.08,
-       "follower": 0
+       "returnViewer": 0.08
       },
       "audienceCountries": {
        "UA": 0.61,
@@ -6803,7 +7417,7 @@
       "totalComments": null,
       "videoDurationSeconds": 0,
       "engagementRate": 5.24,
-      "lastUpdated": "2026-11-18T01:46:31Z"
+      "lastUpdated": "2026-11-19T04:12:57Z"
      },
      "syncStatus": "synced",
      "platformPostUrl": "https://www.tiktok.com/@dnevnik_nekodera/video/7703996378053168404?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
